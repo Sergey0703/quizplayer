@@ -330,6 +330,9 @@
                         <button id="toggleAnswerTranslation" class="control-btn toggle-btn" title="Hide/Show Russian translation in answers">
                             A🇷🇺
                         </button>
+                        <button id="togglePauseButton" class="control-btn toggle-btn" title="Pause at end of question">
+                            ⏸️
+                        </button>
                     </div>
                 </div>
             </div>
@@ -366,6 +369,8 @@
         let showQuestionTranslation = true;
         let showAnswerTranslation = true;
         let isMuted = false;
+        let pauseAtQuestionEnd = true;
+        let wasInQuestion = false;
 
         const videoPlayer = document.getElementById('videoPlayer');
         const videoPlaceholder = document.getElementById('videoPlaceholder');
@@ -374,6 +379,7 @@
         const flagButton = document.getElementById('flagButton');
         const toggleQuestionTranslation = document.getElementById('toggleQuestionTranslation');
         const toggleAnswerTranslation = document.getElementById('toggleAnswerTranslation');
+        const togglePauseButton = document.getElementById('togglePauseButton');
         const soundToggle = document.getElementById('soundToggle');
         const videoInput = document.getElementById('videoInput');
         const srtInput = document.getElementById('srtInput');
@@ -490,9 +496,36 @@
             applyMutedState();
         }
 
+        function loadPausePreference() {
+            const saved = localStorage.getItem('pauseAtQuestionEnd');
+            if (saved !== null) {
+                pauseAtQuestionEnd = saved === 'true';
+            }
+            updatePauseButton();
+        }
+
+        function savePausePreference() {
+            localStorage.setItem('pauseAtQuestionEnd', pauseAtQuestionEnd);
+        }
+
+        function updatePauseButton() {
+            if (pauseAtQuestionEnd) {
+                togglePauseButton.classList.remove('hidden');
+            } else {
+                togglePauseButton.classList.add('hidden');
+            }
+        }
+
+        function togglePause() {
+            pauseAtQuestionEnd = !pauseAtQuestionEnd;
+            savePausePreference();
+            updatePauseButton();
+        }
+
         loadFlaggedQuestions();
         loadTranslationPreferences();
         loadSoundPreference();
+        loadPausePreference();
 
         function parseSRT(srtContent) {
             const subtitleBlocks = srtContent.trim().split(/\n\s*\n/);
@@ -623,7 +656,13 @@
                 const isCorrect = currentSubtitle.text.includes('(Correct)');
 
                 if (currentSubtitle.text.trim().startsWith('Question')) {
+                    // Pause at end of previous question if option is enabled
+                    if (pauseAtQuestionEnd && currentQuestionNumber !== null && wasInQuestion) {
+                        videoPlayer.pause();
+                    }
+                    
                     currentQuestionBlockText = `<span class="question-line">${formattedText}</span>`;
+                    wasInQuestion = true;
                     
                     const question = questions.find(q => q.startTime === currentSubtitle.start);
                     if (question) {
@@ -705,6 +744,7 @@
 
         updateTranslationButtons();
         soundToggle.addEventListener('click', toggleSound);
+        togglePauseButton.addEventListener('click', togglePause);
     </script>
 </body>
 </html>
