@@ -231,10 +231,81 @@
             border-color: #ff6b6b;
             box-shadow: 0 4px 8px rgba(255, 107, 107, 0.3);
         }
+
+        .control-buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            margin-left: 12px;
+            flex-shrink: 0;
+        }
+
+        .control-btn {
+            background: none;
+            border: 2px solid #ccc;
+            border-radius: 6px;
+            padding: 8px 10px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 14px;
+            font-weight: bold;
+            min-width: 50px;
+        }
+
+        .control-btn:hover {
+            border-color: #4CAF50;
+            background-color: #f0f8f0;
+        }
+
+        .control-btn.hidden {
+            background-color: #f5f5f5;
+            border-color: #999;
+            color: #999;
+        }
+
+        .control-btn.hidden:hover {
+            background-color: #e8e8e8;
+        }
+
+        .hidden-translation .russian-text {
+            display: none;
+        }
+
+        .main-container {
+            position: relative;
+        }
+
+        .sound-control {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            z-index: 1000;
+            background: none;
+            border: 2px solid #ccc;
+            border-radius: 8px;
+            font-size: 24px;
+            padding: 10px 12px;
+            cursor: pointer;
+            transition: all 0.3s;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+        }
+
+        .sound-control:hover {
+            border-color: #2196F3;
+            background-color: #f0f7ff;
+        }
+
+        .sound-control.muted {
+            background-color: #ffe3e3;
+            border-color: #ff6b6b;
+        }
     </style>
 </head>
 <body>
     <div class="main-container">
+        <button id="soundToggle" class="sound-control" title="Toggle audio">
+            🔊
+        </button>
         <div class="video-container">
             <video id="videoPlayer" controls style="display: none;"></video>
             <div id="videoPlaceholder" class="video-placeholder">
@@ -249,9 +320,17 @@
                     <div id="subtitleDisplay" class="subtitle-text subtitle-placeholder" style="flex: 1;">
                         Subtitles will appear here
                     </div>
-                    <button id="flagButton" class="flag-button" style="display: none;" title="Mark as difficult question">
-                        🚩
-                    </button>
+                    <div class="control-buttons">
+                        <button id="flagButton" class="control-btn flag-button" style="display: none;" title="Mark as difficult question">
+                            🚩
+                        </button>
+                        <button id="toggleQuestionTranslation" class="control-btn toggle-btn" title="Hide/Show Russian translation in questions">
+                            Q🇷🇺
+                        </button>
+                        <button id="toggleAnswerTranslation" class="control-btn toggle-btn" title="Hide/Show Russian translation in answers">
+                            A🇷🇺
+                        </button>
+                    </div>
                 </div>
             </div>
             <div id="questionNavigation" class="question-navigation" style="display: none;">
@@ -284,12 +363,18 @@
         let lastProcessedSubtitle = null;
         let currentQuestionNumber = null;
         let flaggedQuestions = {};
+        let showQuestionTranslation = true;
+        let showAnswerTranslation = true;
+        let isMuted = false;
 
         const videoPlayer = document.getElementById('videoPlayer');
         const videoPlaceholder = document.getElementById('videoPlaceholder');
         const subtitleDisplay = document.getElementById('subtitleDisplay');
         const questionNavigation = document.getElementById('questionNavigation');
         const flagButton = document.getElementById('flagButton');
+        const toggleQuestionTranslation = document.getElementById('toggleQuestionTranslation');
+        const toggleAnswerTranslation = document.getElementById('toggleAnswerTranslation');
+        const soundToggle = document.getElementById('soundToggle');
         const videoInput = document.getElementById('videoInput');
         const srtInput = document.getElementById('srtInput');
         const statusText = document.getElementById('statusText');
@@ -333,7 +418,81 @@
             });
         }
 
+        function loadTranslationPreferences() {
+            const saved = localStorage.getItem('translationPreferences');
+            if (saved) {
+                const prefs = JSON.parse(saved);
+                showQuestionTranslation = prefs.question !== false;
+                showAnswerTranslation = prefs.answer !== false;
+            }
+            updateTranslationButtons();
+        }
+
+        function saveTranslationPreferences() {
+            localStorage.setItem('translationPreferences', JSON.stringify({
+                question: showQuestionTranslation,
+                answer: showAnswerTranslation
+            }));
+        }
+
+        function updateTranslationButtons() {
+            if (showQuestionTranslation) {
+                toggleQuestionTranslation.classList.remove('hidden');
+            } else {
+                toggleQuestionTranslation.classList.add('hidden');
+            }
+            
+            if (showAnswerTranslation) {
+                toggleAnswerTranslation.classList.remove('hidden');
+            } else {
+                toggleAnswerTranslation.classList.add('hidden');
+            }
+        }
+
+        function applyTranslationVisibility() {
+            const isQuestion = lastProcessedSubtitle && lastProcessedSubtitle.text.trim().startsWith('Question');
+            
+            if (isQuestion && !showQuestionTranslation) {
+                subtitleDisplay.classList.add('hidden-translation');
+            } else if (!isQuestion && !showAnswerTranslation) {
+                subtitleDisplay.classList.add('hidden-translation');
+            } else {
+                subtitleDisplay.classList.remove('hidden-translation');
+            }
+        }
+
+        function loadSoundPreference() {
+            const saved = localStorage.getItem('isMuted');
+            if (saved !== null) {
+                isMuted = saved === 'true';
+            }
+            applyMutedState();
+        }
+
+        function saveSoundPreference() {
+            localStorage.setItem('isMuted', isMuted);
+        }
+
+        function applyMutedState() {
+            videoPlayer.muted = isMuted;
+            if (isMuted) {
+                soundToggle.classList.add('muted');
+                soundToggle.textContent = '🔇';
+            } else {
+                soundToggle.classList.remove('muted');
+                soundToggle.textContent = '🔊';
+            }
+        }
+
+        function toggleSound() {
+            isMuted = !isMuted;
+            saveSoundPreference();
+            applyMutedState();
+        }
+
         loadFlaggedQuestions();
+        loadTranslationPreferences();
+        loadSoundPreference();
 
         function parseSRT(srtContent) {
             const subtitleBlocks = srtContent.trim().split(/\n\s*\n/);
@@ -487,6 +646,7 @@
 
                 subtitleDisplay.innerHTML = currentQuestionBlockText;
                 subtitleDisplay.classList.remove('subtitle-placeholder');
+                applyTranslationVisibility();
             }
         }
 
@@ -528,6 +688,23 @@
         });
 
         flagButton.addEventListener('click', toggleFlag);
+
+        toggleQuestionTranslation.addEventListener('click', () => {
+            showQuestionTranslation = !showQuestionTranslation;
+            saveTranslationPreferences();
+            updateTranslationButtons();
+            applyTranslationVisibility();
+        });
+
+        toggleAnswerTranslation.addEventListener('click', () => {
+            showAnswerTranslation = !showAnswerTranslation;
+            saveTranslationPreferences();
+            updateTranslationButtons();
+            applyTranslationVisibility();
+        });
+
+        updateTranslationButtons();
+        soundToggle.addEventListener('click', toggleSound);
     </script>
 </body>
 </html>
