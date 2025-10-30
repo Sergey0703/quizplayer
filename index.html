@@ -87,12 +87,28 @@
             padding-left: 20px;
         }
 
-        /* === NEW CSS RULE HERE === */
         .russian-text {
-            color: #555; /* Muted grey color for translation */
+            display: block;
+            color: #6c757d;
             font-style: italic;
+            font-size: 20px;
+            margin-top: 5px;
+            padding-left: 20px;
+            line-height: 1.4;
         }
-        /* ======================== */
+
+        .correct-answer {
+            background-color: #d4edda;
+            border-left: 4px solid #28a745;
+            padding: 10px 15px;
+            margin: 5px 0;
+            border-radius: 4px;
+        }
+
+        .correct-badge {
+            color: #28a745;
+            font-weight: bold;
+        }
 
         .subtitle-placeholder {
             color: #999;
@@ -179,6 +195,42 @@
         .question-btn:active {
             transform: translateY(0);
         }
+
+        .question-btn.flagged {
+            position: relative;
+        }
+
+        .question-btn.flagged::after {
+            content: '🚩';
+            position: absolute;
+            top: -10px;
+            right: -10px;
+            font-size: 18px;
+        }
+
+        .flag-button {
+            background: none;
+            border: 2px solid #ccc;
+            border-radius: 8px;
+            font-size: 28px;
+            padding: 8px 12px;
+            cursor: pointer;
+            margin-left: 15px;
+            margin-top: 40px;
+            transition: all 0.3s;
+            flex-shrink: 0;
+        }
+
+        .flag-button:hover {
+            border-color: #ff6b6b;
+            transform: scale(1.1);
+        }
+
+        .flag-button.active {
+            background-color: #ffe3e3;
+            border-color: #ff6b6b;
+            box-shadow: 0 4px 8px rgba(255, 107, 107, 0.3);
+        }
     </style>
 </head>
 <body>
@@ -193,8 +245,13 @@
         
         <div class="subtitle-container">
             <div class="subtitle-text-wrapper">
-                <div id="subtitleDisplay" class="subtitle-text subtitle-placeholder">
-                    Subtitles will appear here
+                <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
+                    <div id="subtitleDisplay" class="subtitle-text subtitle-placeholder" style="flex: 1;">
+                        Subtitles will appear here
+                    </div>
+                    <button id="flagButton" class="flag-button" style="display: none;" title="Mark as difficult question">
+                        🚩
+                    </button>
                 </div>
             </div>
             <div id="questionNavigation" class="question-navigation" style="display: none;">
@@ -225,14 +282,58 @@
         let questions = [];
         let currentQuestionBlockText = '';
         let lastProcessedSubtitle = null;
+        let currentQuestionNumber = null;
+        let flaggedQuestions = {};
 
         const videoPlayer = document.getElementById('videoPlayer');
         const videoPlaceholder = document.getElementById('videoPlaceholder');
         const subtitleDisplay = document.getElementById('subtitleDisplay');
         const questionNavigation = document.getElementById('questionNavigation');
+        const flagButton = document.getElementById('flagButton');
         const videoInput = document.getElementById('videoInput');
         const srtInput = document.getElementById('srtInput');
         const statusText = document.getElementById('statusText');
+
+        function loadFlaggedQuestions() {
+            const saved = localStorage.getItem('flaggedQuestions');
+            if (saved) {
+                flaggedQuestions = JSON.parse(saved);
+            }
+        }
+
+        function saveFlaggedQuestions() {
+            localStorage.setItem('flaggedQuestions', JSON.stringify(flaggedQuestions));
+        }
+
+        function toggleFlag() {
+            if (currentQuestionNumber === null) return;
+            
+            if (flaggedQuestions[currentQuestionNumber]) {
+                delete flaggedQuestions[currentQuestionNumber];
+                flagButton.classList.remove('active');
+            } else {
+                flaggedQuestions[currentQuestionNumber] = true;
+                flagButton.classList.add('active');
+            }
+            
+            saveFlaggedQuestions();
+            updateQuestionButtonFlags();
+        }
+
+        function updateQuestionButtonFlags() {
+            questions.forEach(question => {
+                const btn = questionNavigation.querySelector(`button[data-question="${question.number}"]`);
+                if (btn) {
+                    if (flaggedQuestions[question.number]) {
+                        btn.classList.add('flagged');
+                    } else {
+                        btn.classList.remove('flagged');
+                    }
+                }
+            });
+        }
+
+        loadFlaggedQuestions();
 
         function parseSRT(srtContent) {
             const subtitleBlocks = srtContent.trim().split(/\n\s*\n/);
@@ -311,6 +412,12 @@
                 btn.className = 'question-btn';
                 btn.textContent = question.number;
                 btn.title = `Jump to Question ${question.number}`;
+                btn.setAttribute('data-question', question.number);
+                
+                if (flaggedQuestions[question.number]) {
+                    btn.classList.add('flagged');
+                }
+                
                 btn.addEventListener('click', () => {
                     videoPlayer.currentTime = question.startTime;
                     if (videoPlayer.paused) {
@@ -321,14 +428,29 @@
             });
         }
 
-        // === NEW JAVASCRIPT HELPER FUNCTION ===
         function formatSubtitleText(text) {
-            // This regex finds text inside parentheses and wraps it with our new class.
-            return text.replace(/\((.*?)\)/g, '(<span class="russian-text">$1</span>)');
+            const hasCorrect = text.includes('(Correct)');
+            
+            let formatted = text;
+            
+            if (hasCorrect) {
+                formatted = formatted.replace('(Correct)', '<span class="correct-badge">(Correct)</span>');
+            }
+            
+            formatted = formatted.replace(/\(([^)]+)\)/g, (match, content) => {
+                if (content === 'Correct') {
+                    return match;
+                }
+                const isCyrillic = /[\u0400-\u04FF]/.test(content);
+                if (isCyrillic) {
+                    return `<span class="russian-text">${content}</span>`;
+                }
+                return match;
+            });
+            
+            return formatted;
         }
-        // ======================================
 
-        // === UPDATED JAVASCRIPT FUNCTION ===
         function updateSubtitle() {
             const currentTime = videoPlayer.currentTime;
             const currentSubtitle = subtitles.find(sub => 
@@ -338,21 +460,35 @@
             if (currentSubtitle && currentSubtitle !== lastProcessedSubtitle) {
                 lastProcessedSubtitle = currentSubtitle;
 
-                // First, format the text to apply styling to Russian parts
                 const formattedText = formatSubtitleText(currentSubtitle.text);
+                const isCorrect = currentSubtitle.text.includes('(Correct)');
 
-                // Then, build the HTML block as before, but with the formatted text
                 if (currentSubtitle.text.trim().startsWith('Question')) {
                     currentQuestionBlockText = `<span class="question-line">${formattedText}</span>`;
+                    
+                    const question = questions.find(q => q.startTime === currentSubtitle.start);
+                    if (question) {
+                        currentQuestionNumber = question.number;
+                        flagButton.style.display = 'block';
+                        
+                        if (flaggedQuestions[currentQuestionNumber]) {
+                            flagButton.classList.add('active');
+                        } else {
+                            flagButton.classList.remove('active');
+                        }
+                    }
                 } else {
-                    currentQuestionBlockText += `<span class="answer-line">${formattedText}</span>`;
+                    if (isCorrect) {
+                        currentQuestionBlockText += `<div class="correct-answer"><span class="answer-line">${formattedText}</span></div>`;
+                    } else {
+                        currentQuestionBlockText += `<span class="answer-line">${formattedText}</span>`;
+                    }
                 }
 
                 subtitleDisplay.innerHTML = currentQuestionBlockText;
                 subtitleDisplay.classList.remove('subtitle-placeholder');
             }
         }
-        // ===================================
 
         videoInput.addEventListener('change', (event) => {
             const file = event.target.files[0];
@@ -390,6 +526,8 @@
                 subtitleDisplay.classList.add('subtitle-placeholder');
             }
         });
+
+        flagButton.addEventListener('click', toggleFlag);
     </script>
 </body>
 </html>
