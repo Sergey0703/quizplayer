@@ -370,7 +370,8 @@
         let showAnswerTranslation = true;
         let isMuted = false;
         let pauseAtQuestionEnd = true;
-        let wasInQuestion = false;
+        let currentQuestionEndTime = null;
+        let shouldPauseAfterQuestion = false;
 
         const videoPlayer = document.getElementById('videoPlayer');
         const videoPlaceholder = document.getElementById('videoPlaceholder');
@@ -520,6 +521,11 @@
             pauseAtQuestionEnd = !pauseAtQuestionEnd;
             savePausePreference();
             updatePauseButton();
+            
+            // Reset pause flag if disabling the feature
+            if (!pauseAtQuestionEnd) {
+                shouldPauseAfterQuestion = false;
+            }
         }
 
         loadFlaggedQuestions();
@@ -656,13 +662,7 @@
                 const isCorrect = currentSubtitle.text.includes('(Correct)');
 
                 if (currentSubtitle.text.trim().startsWith('Question')) {
-                    // Pause at end of previous question if option is enabled
-                    if (pauseAtQuestionEnd && currentQuestionNumber !== null && wasInQuestion) {
-                        videoPlayer.pause();
-                    }
-                    
                     currentQuestionBlockText = `<span class="question-line">${formattedText}</span>`;
-                    wasInQuestion = true;
                     
                     const question = questions.find(q => q.startTime === currentSubtitle.start);
                     if (question) {
@@ -675,12 +675,20 @@
                             flagButton.classList.remove('active');
                         }
                     }
+                    
+                    // Enable pause after this question ends
+                    if (pauseAtQuestionEnd) {
+                        shouldPauseAfterQuestion = true;
+                    }
+                    currentQuestionEndTime = currentSubtitle.end;
                 } else {
                     if (isCorrect) {
                         currentQuestionBlockText += `<div class="correct-answer"><span class="answer-line">${formattedText}</span></div>`;
                     } else {
                         currentQuestionBlockText += `<span class="answer-line">${formattedText}</span>`;
                     }
+                    // Update end time as we progress through answers
+                    currentQuestionEndTime = currentSubtitle.end;
                 }
 
                 subtitleDisplay.innerHTML = currentQuestionBlockText;
@@ -718,6 +726,18 @@
         });
 
         videoPlayer.addEventListener('timeupdate', updateSubtitle);
+        
+        videoPlayer.addEventListener('timeupdate', () => {
+            // Check if we should pause after question ends
+            if (shouldPauseAfterQuestion && currentQuestionEndTime !== null) {
+                const currentTime = videoPlayer.currentTime;
+                // Pause 1.5 seconds after the last subtitle of current question ends
+                if (currentTime >= currentQuestionEndTime + 1.5) {
+                    videoPlayer.pause();
+                    shouldPauseAfterQuestion = false;
+                }
+            }
+        });
         
         videoPlayer.addEventListener('play', () => {
             if (subtitles.length === 0) {
