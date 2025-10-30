@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Player with Subtitles</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            background-color: #f0f0f0;
+        }
+
+        .main-container {
+            flex: 1;
+            display: flex;
+            overflow: hidden;
+        }
+
+        .video-container {
+            width: 436px;
+            background-color: #000;
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+            position: relative;
+            overflow: hidden;
+        }
+
+        video {
+            height: 100%;
+            width: auto;
+            max-width: none;
+        }
+
+        .video-placeholder {
+            color: #666;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .subtitle-container {
+            flex: 1;
+            background-color: #FFFFFF;
+            margin-left: 14px;
+            display: flex;
+            flex-direction: column;
+            padding: 40px;
+            overflow: hidden;
+        }
+
+        .subtitle-text-wrapper {
+            flex: 1;
+            overflow-y: auto;
+            display: flex;
+            align-items: flex-start;
+            justify-content: flex-start;
+            margin-bottom: 20px;
+        }
+
+        .subtitle-text {
+            color: #000000;
+            font-size: 24px;
+            line-height: 1.6;
+            text-align: left;
+            word-wrap: break-word;
+            width: 100%;
+        }
+
+        .subtitle-text .question-line {
+            font-size: 28px;
+            font-weight: bold;
+            display: block;
+            margin-bottom: 15px;
+        }
+
+        .subtitle-text .answer-line {
+            display: block;
+            padding-left: 20px;
+        }
+
+        /* === NEW CSS RULE HERE === */
+        .russian-text {
+            color: #555; /* Muted grey color for translation */
+            font-style: italic;
+        }
+        /* ======================== */
+
+        .subtitle-placeholder {
+            color: #999;
+            font-size: 18px;
+            text-align: center;
+        }
+
+        .controls-container {
+            background-color: #333;
+            padding: 20px;
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .file-input-wrapper {
+            position: relative;
+        }
+
+        .file-input-wrapper input[type="file"] {
+            position: absolute;
+            left: -9999px;
+        }
+
+        .file-button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 12px 24px;
+            font-size: 16px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .file-button:hover {
+            background-color: #45a049;
+        }
+
+        .file-button.srt-button {
+            background-color: #2196F3;
+        }
+
+        .file-button.srt-button:hover {
+            background-color: #0b7dda;
+        }
+
+        .status-text {
+            color: #fff;
+            font-size: 14px;
+            margin-left: 10px;
+        }
+
+        .question-navigation {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            padding: 15px;
+            background-color: #f5f5f5;
+            border-radius: 8px;
+            justify-content: center;
+        }
+
+        .question-btn {
+            min-width: 45px;
+            padding: 10px 15px;
+            background-color: #2196F3;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: bold;
+            transition: all 0.3s;
+        }
+
+        .question-btn:hover {
+            background-color: #0b7dda;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+
+        .question-btn:active {
+            transform: translateY(0);
+        }
+    </style>
+</head>
+<body>
+    <div class="main-container">
+        <div class="video-container">
+            <video id="videoPlayer" controls style="display: none;"></video>
+            <div id="videoPlaceholder" class="video-placeholder">
+                <p>No video loaded</p>
+                <p style="font-size: 14px; margin-top: 10px;">Click "Load Video" below</p>
+            </div>
+        </div>
+        
+        <div class="subtitle-container">
+            <div class="subtitle-text-wrapper">
+                <div id="subtitleDisplay" class="subtitle-text subtitle-placeholder">
+                    Subtitles will appear here
+                </div>
+            </div>
+            <div id="questionNavigation" class="question-navigation" style="display: none;">
+            </div>
+        </div>
+    </div>
+
+    <div class="controls-container">
+        <div class="file-input-wrapper">
+            <input type="file" id="videoInput" accept="video/*">
+            <button class="file-button" onclick="document.getElementById('videoInput').click()">
+                Load Video
+            </button>
+        </div>
+        
+        <div class="file-input-wrapper">
+            <input type="file" id="srtInput" accept=".srt">
+            <button class="file-button srt-button" onclick="document.getElementById('srtInput').click()">
+                Load SRT File
+            </button>
+        </div>
+        
+        <span id="statusText" class="status-text"></span>
+    </div>
+
+    <script>
+        let subtitles = [];
+        let questions = [];
+        let currentQuestionBlockText = '';
+        let lastProcessedSubtitle = null;
+
+        const videoPlayer = document.getElementById('videoPlayer');
+        const videoPlaceholder = document.getElementById('videoPlaceholder');
+        const subtitleDisplay = document.getElementById('subtitleDisplay');
+        const questionNavigation = document.getElementById('questionNavigation');
+        const videoInput = document.getElementById('videoInput');
+        const srtInput = document.getElementById('srtInput');
+        const statusText = document.getElementById('statusText');
+
+        function parseSRT(srtContent) {
+            const subtitleBlocks = srtContent.trim().split(/\n\s*\n/);
+            const parsedSubtitles = [];
+
+            subtitleBlocks.forEach(block => {
+                const lines = block.split('\n');
+                if (lines.length >= 3) {
+                    let timeMatch = lines[1].match(/(\d{1,2}):(\d{2}):(\d{2}),(\d{3})\s*-->\s*(\d{1,2}):(\d{2}):(\d{2}),(\d{3})/);
+                    
+                    if (!timeMatch) {
+                        timeMatch = lines[1].match(/(\d{1,2}):(\d{2}),(\d{3})\s*-->\s*(\d{1,2}):(\d{2}),(\d{3})/);
+                        if (timeMatch) {
+                            const startTime = parseInt(timeMatch[1]) * 60 + 
+                                            parseInt(timeMatch[2]) + 
+                                            parseInt(timeMatch[3]) / 1000;
+                            
+                            const endTime = parseInt(timeMatch[4]) * 60 + 
+                                          parseInt(timeMatch[5]) + 
+                                          parseInt(timeMatch[6]) / 1000;
+                            
+                            const text = lines.slice(2).join('\n');
+                            
+                            parsedSubtitles.push({
+                                start: startTime,
+                                end: endTime,
+                                text: text
+                            });
+                        }
+                    } else {
+                        const startTime = parseInt(timeMatch[1]) * 3600 + 
+                                        parseInt(timeMatch[2]) * 60 + 
+                                        parseInt(timeMatch[3]) + 
+                                        parseInt(timeMatch[4]) / 1000;
+                        
+                        const endTime = parseInt(timeMatch[5]) * 3600 + 
+                                      parseInt(timeMatch[6]) * 60 + 
+                                      parseInt(timeMatch[7]) + 
+                                      parseInt(timeMatch[8]) / 1000;
+                        
+                        const text = lines.slice(2).join('\n');
+                        
+                        parsedSubtitles.push({
+                            start: startTime,
+                            end: endTime,
+                            text: text
+                        });
+                    }
+                }
+            });
+
+            return parsedSubtitles;
+        }
+
+        function extractQuestions(subtitles) {
+            return subtitles.filter(sub => sub.text.trim().startsWith('Question'))
+                .map((sub, index) => ({
+                    number: index + 1,
+                    startTime: sub.start,
+                    text: sub.text
+                }));
+        }
+
+        function createQuestionButtons(questions) {
+            questionNavigation.innerHTML = '';
+            
+            if (questions.length === 0) {
+                questionNavigation.style.display = 'none';
+                return;
+            }
+            
+            questionNavigation.style.display = 'flex';
+            
+            questions.forEach(question => {
+                const btn = document.createElement('button');
+                btn.className = 'question-btn';
+                btn.textContent = question.number;
+                btn.title = `Jump to Question ${question.number}`;
+                btn.addEventListener('click', () => {
+                    videoPlayer.currentTime = question.startTime;
+                    if (videoPlayer.paused) {
+                        videoPlayer.play();
+                    }
+                });
+                questionNavigation.appendChild(btn);
+            });
+        }
+
+        // === NEW JAVASCRIPT HELPER FUNCTION ===
+        function formatSubtitleText(text) {
+            // This regex finds text inside parentheses and wraps it with our new class.
+            return text.replace(/\((.*?)\)/g, '(<span class="russian-text">$1</span>)');
+        }
+        // ======================================
+
+        // === UPDATED JAVASCRIPT FUNCTION ===
+        function updateSubtitle() {
+            const currentTime = videoPlayer.currentTime;
+            const currentSubtitle = subtitles.find(sub => 
+                currentTime >= sub.start && currentTime <= sub.end
+            );
+
+            if (currentSubtitle && currentSubtitle !== lastProcessedSubtitle) {
+                lastProcessedSubtitle = currentSubtitle;
+
+                // First, format the text to apply styling to Russian parts
+                const formattedText = formatSubtitleText(currentSubtitle.text);
+
+                // Then, build the HTML block as before, but with the formatted text
+                if (currentSubtitle.text.trim().startsWith('Question')) {
+                    currentQuestionBlockText = `<span class="question-line">${formattedText}</span>`;
+                } else {
+                    currentQuestionBlockText += `<span class="answer-line">${formattedText}</span>`;
+                }
+
+                subtitleDisplay.innerHTML = currentQuestionBlockText;
+                subtitleDisplay.classList.remove('subtitle-placeholder');
+            }
+        }
+        // ===================================
+
+        videoInput.addEventListener('change', (event) => {
+            const file = event.target.files[0];
+            if (file) {
+                const url = URL.createObjectURL(file);
+                videoPlayer.src = url;
+                videoPlayer.style.display = 'block';
+                videoPlaceholder.style.display = 'none';
+                statusText.textContent = `Video loaded: ${file.name}`;
+            }
+        });
+
+        srtInput.addEventListener('change', (event) => {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = (e) => {
+                    const srtContent = e.target.result;
+                    subtitles = parseSRT(srtContent);
+                    questions = extractQuestions(subtitles);
+                    createQuestionButtons(questions);
+                    statusText.textContent = `SRT loaded: ${file.name} (${subtitles.length} subtitles, ${questions.length} questions)`;
+                    subtitleDisplay.textContent = 'Subtitles loaded. Play video to see them.';
+                    subtitleDisplay.classList.remove('subtitle-placeholder');
+                };
+                reader.readAsText(file);
+            }
+        });
+
+        videoPlayer.addEventListener('timeupdate', updateSubtitle);
+        
+        videoPlayer.addEventListener('play', () => {
+            if (subtitles.length === 0) {
+                subtitleDisplay.textContent = 'No subtitles loaded';
+                subtitleDisplay.classList.add('subtitle-placeholder');
+            }
+        });
+    </script>
+</body>
+</html>

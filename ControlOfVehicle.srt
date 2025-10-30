@@ -1,0 +1,403 @@
+1
+00:00:04,150 --> 00:00:08,000
+Question 1: What is a likely consequence of sudden braking? (Каково вероятное последствие резкого торможения?)
+
+2
+00:00:08,581 --> 00:00:10,951
+- The vehicle could be hit from behind. (Correct) (В автомобиль могут въехать сзади.)
+
+3
+00:00:11,591 --> 00:00:13,491
+- The vehicle could be overtaken. (Автомобиль могут обогнать.)
+
+4
+00:00:14,211 --> 00:00:16,911
+- The vehicle's braking system could overheat. (Тормозная система автомобиля может перегреться.)
+
+5
+00:00:17,661 --> 00:00:22,171
+- There will be no consequences as the vehicle's brake lights will come on. (Последствий не будет, так как загорятся стоп-сигналы автомобиля.)
+
+6
+00:00:24,200 --> 00:00:30,000
+Question 2: If the brake pedal of a vehicle feels soft or spongy when applied, what does this mean? (Если педаль тормоза автомобиля при нажатии кажется мягкой или губчатой, что это означает?)
+
+7
+00:00:30,865 --> 00:00:33,965
+- A fault in the brake fluid system. (Correct) (Неисправность в системе тормозной жидкости.)
+
+8
+00:00:34,585 --> 00:00:36,135
+- Worn brake pads. (Изношенные тормозные колодки.)
+
+9
+00:00:36,885 --> 00:00:39,375
+- A fault in the handbrake cable. (Неисправность троса ручного тормоза.)
+
+10
+00:00:40,025 --> 00:00:41,845
+- The parking brake is on. (Стояночный тормоз включен.)
+
+11
+00:00:44,100 --> 00:00:50,500
+Question 3: Whilst driving, why might a driver suspect that the brake fluid level in their vehicle is low? (Почему во время движения водитель может заподозрить, что уровень тормозной жидкости в его автомобиле низкий?)
+
+12
+00:00:51,085 --> 00:00:53,605
+- The brakes feel spongy and soft. (Correct) (Тормоза кажутся губчатыми и мягкими.)
+
+13
+00:00:54,345 --> 00:00:56,435
+- The brakes are unusually sharp. (Тормоза необычно резкие.)
+
+14
+00:00:57,095 --> 00:00:59,855
+- The brakes take longer than usual to release. (Тормоза отпускаются дольше обычного.)
+
+15
+00:01:00,805 --> 00:01:03,505
+- The brakes feel hard to press. (Педаль тормоза нажимается с трудом.)
+
+16
+00:01:06,100 --> 00:01:12,000
+Question 4: If a driver applies the footbrake and hears a scraping noise, what is the most likely cause? (Если водитель нажимает на педаль тормоза и слышит скрежет, какова наиболее вероятная причина?)
+
+17
+00:01:13,576 --> 00:01:16,216
+- The brake linings or pads are worn. (Correct) (Тормозные накладки или колодки изношены.)
+
+18
+00:01:16,776 --> 00:01:18,936
+- One of the front tyres is flat. (Одна из передних шин спущена.)
+
+19
+00:01:19,656 --> 00:01:21,806
+- One of the rear tyres is flat. (Одна из задних шин спущена.)
+
+20
+00:01:22,506 --> 00:01:24,356
+- The brake pads are wet. (Тормозные колодки мокрые.)
+
+21
+00:01:26,100 --> 00:01:29,500
+Question 5: What may indicate a problem with the vehicle's braking system? (Что может указывать на проблему с тормозной системой автомобиля?)
+
+22
+00:01:30,587 --> 00:01:33,837
+- The vehicle's stopping ability is affected. (Correct) (Снижена способность автомобиля к остановке.)
+
+23
+00:01:34,607 --> 00:01:37,257
+- The vehicle's suspension is affected. (Затронута подвеска автомобиля.)
+
+24
+00:01:37,797 --> 00:01:40,687
+- The vehicle's parking brake is more effective. (Стояночный тормоз автомобиля более эффективен.)
+
+25
+00:01:41,407 --> 00:01:44,537
+- The vehicle's fuel consumption is reduced. (Расход топлива автомобиля снижен.)
+
+26
+00:01:46,600 --> 00:01:49,500
+Question 6: What is the danger of sudden braking? (В чем опасность резкого торможения?)
+
+27
+00:01:50,527 --> 00:01:52,067
+- Vehicle may skid. (Correct) (Автомобиль может занести.)
+
+28
+00:01:52,827 --> 00:01:54,587
+- Handbrake may engage. (Может включиться ручной тормоз.)
+
+29
+00:01:55,517 --> 00:01:57,847
+- Driver's airbag may deploy. (Может сработать подушка безопасности водителя.)
+
+30
+00:02:00,400 --> 00:02:02,500
+Question 7: What can cause a vehicle to skid? (Что может вызвать занос автомобиля?)
+
+31
+00:02:03,407 --> 00:02:05,377
+- Excessive heavy braking. (Correct) (Чрезмерно резкое торможение.)
+
+32
+00:02:05,977 --> 00:02:07,437
+- Coasting to a stop. (Движение накатом до полной остановки.)
+
+33
+00:02:07,987 --> 00:02:09,727
+- Controlled acceleration. (Контролируемое ускорение.)
+
+34
+00:02:10,367 --> 00:02:12,327
+- Stopping in fourth gear. (Остановка на четвертой передаче.)
+
+35
+00:02:14,400 --> 00:02:19,000
+Question 8: What is the outcome of late clutch use when stopping a vehicle? (Каков результат позднего выжимания сцепления при остановке автомобиля?)
+
+36
+00:02:20,317 --> 00:02:22,237
+- The vehicle may cut out. (Correct) (Двигатель автомобиля может заглохнуть.)
+
+37
+00:02:22,707 --> 00:02:24,357
+- It helps to save fuel. (Это помогает экономить топливо.)
+
+38
+00:02:24,967 --> 00:02:27,247
+- Tyres will wear down quicker. (Шины износятся быстрее.)
+
+39
+00:02:29,300 --> 00:02:35,000
+Question 9: When braking, what determines how quickly the vehicle will slow down and stop? (Что при торможении определяет, насколько быстро автомобиль замедлится и остановится?)
+
+40
+00:02:35,777 --> 00:02:39,477
+- The amount of downward pressure applied to the brake pedal. (Correct) (Величина давления, приложенного к педали тормоза.)
+
+41
+00:02:40,437 --> 00:02:43,927
+- The amount of upward pressure applied to the brake pedal. (Величина обратного давления, приложенного к педали тормоза.)
+
+42
+00:02:44,727 --> 00:02:48,777
+- The amount of downward pressure applied to the accelerator. (Величина давления, приложенного к педали акселератора.)
+
+43
+00:02:50,800 --> 00:02:54,500
+Question 10: What should a driver be aware of when braking to slow down and stop? (О чем должен помнить водитель при торможении для замедления и остановки?)
+
+44
+00:02:56,128 --> 00:02:58,698
+- A loaded vehicle takes longer to stop. (Correct) (Загруженному автомобилю требуется больше времени для остановки.)
+
+45
+00:02:59,488 --> 00:03:01,958
+- An empty vehicle takes longer to stop. (Пустому автомобилю требуется больше времени для остановки.)
+
+46
+00:03:02,628 --> 00:03:05,368
+- A shorter vehicle takes longer to stop. (Более короткому автомобилю требуется больше времени для остановки.)
+
+47
+00:03:06,800 --> 00:03:11,000
+Question 11: Why should a tractor be driven more slowly on uneven road surfaces? (Почему трактор следует вести медленнее по неровным дорожным покрытиям?)
+
+48
+00:03:12,419 --> 00:03:14,359
+- To avoid severe bouncing. (Correct) (Чтобы избежать сильной тряски.)
+
+49
+00:03:14,889 --> 00:03:17,219
+- To avoid fuel spilling from the tank. (Чтобы избежать утечки топлива из бака.)
+
+50
+00:03:17,919 --> 00:03:19,669
+- To reduce road noise. (Чтобы уменьшить дорожный шум.)
+
+51
+00:03:20,389 --> 00:03:22,359
+- To maintain tyre pressure. (Для поддержания давления в шинах.)
+
+52
+00:03:23,500 --> 00:03:26,000
+Question 12: What type of noise might fast cornering create? (Какой шум может возникнуть при быстром прохождении поворотов?)
+
+53
+00:03:27,109 --> 00:03:28,309
+- Tyre squeal. (Correct) (Визг шин.)
+
+54
+00:03:28,819 --> 00:03:30,069
+- Brake squeal. (Скрип тормозов.)
+
+55
+00:03:30,649 --> 00:03:32,049
+- Exhaust backfire. (Выстрел в глушителе.)
+
+56
+00:03:32,809 --> 00:03:34,319
+- Engine backfire. (Выстрел в двигателе.)
+
+57
+00:03:38,400 --> 00:03:42,500
+Question 13: What should a driver do when a vehicle starts to aquaplane? (Что должен делать водитель, когда автомобиль начинает аквапланировать?)
+
+58
+00:03:43,710 --> 00:03:46,240
+- Ease off the accelerator to slow down. (Correct) (Отпустить педаль акселератора, чтобы замедлиться.)
+
+59
+00:03:47,070 --> 00:03:49,600
+- Brake firmly in order to slow down. (Резко затормозить, чтобы замедлиться.)
+
+60
+00:03:50,470 --> 00:03:53,040
+- Maintain speed to avoid skidding. (Поддерживать скорость, чтобы избежать заноса.)
+
+61
+00:03:55,500 --> 00:03:59,000
+Question 14: What is the purpose of electronic stability control? (Каково назначение электронной системы курсовой устойчивости?)
+
+62
+00:04:00,121 --> 00:04:03,171
+- To keep the vehicle steady and prevent skidding. (Correct) (Для поддержания устойчивости автомобиля и предотвращения заноса.)
+
+63
+00:04:03,691 --> 00:04:05,691
+- To reduce fuel consumption. (Для снижения расхода топлива.)
+
+64
+00:04:06,421 --> 00:04:09,171
+- To maintain speed when motorway driving. (Для поддержания скорости при движении по автомагистрали.)
+
+65
+00:04:10,800 --> 00:04:13,000
+Question 15: What is the most common cause of skidding? (Какова наиболее частая причина заноса?)
+
+66
+00:04:14,531 --> 00:04:18,221
+- Excessive speed for the circumstances or conditions. (Correct) (Чрезмерная скорость для данных обстоятельств или условий.)
+
+67
+00:04:19,101 --> 00:04:20,831
+- Badly worn brake pads. (Сильно изношенные тормозные колодки.)
+
+68
+00:04:21,571 --> 00:04:24,711
+- Hot brake pads from over use on downhill stretches. (Горячие тормозные колодки из-за чрезмерного использования на спусках.)
+
+69
+00:04:26,300 --> 00:04:29,500
+Question 16: When should the handbrake be used to bring a vehicle to a halt? (Когда следует использовать ручной тормоз для остановки автомобиля?)
+
+70
+00:04:30,551 --> 00:04:31,901
+- Normally never. (Correct) (Обычно никогда.)
+
+71
+00:04:32,591 --> 00:04:34,321
+- Only when going downhill. (Только при движении под гору.)
+
+72
+00:04:34,841 --> 00:04:36,451
+- Only when going uphill. (Только при движении в гору.)
+
+73
+00:04:37,051 --> 00:04:38,451
+- At any time. (В любое время.)
+
+74
+00:04:41,500 --> 00:04:46,500
+Question 17: What is the danger associated with applying the handbrake (parking brake) when the vehicle is moving? (В чем опасность использования ручного тормоза (стояночного тормоза) во время движения автомобиля?)
+
+75
+00:04:47,882 --> 00:04:50,712
+- The wheels could lock and cause the vehicle to skid. (Correct) (Колеса могут заблокироваться, и автомобиль может занести.)
+
+76
+00:04:51,212 --> 00:04:54,422
+- The ABS could disconnect and cause the vehicle to skid. (ABS может отключиться, и автомобиль может занести.)
+
+77
+00:04:55,272 --> 00:04:59,652
+- There is no danger - the vehicle will not skid as the handbrake can be released quickly. (Опасности нет — автомобиль не занесет, так как ручной тормоз можно быстро отпустить.)
+
+78
+00:05:00,342 --> 00:05:04,132
+- The engine will stall once the handbrake is applied at speed. (Двигатель заглохнет, если ручной тормоз применить на скорости.)
+
+79
+00:05:06,500 --> 00:05:11,000
+Question 18: The parking brake (handbrake) generally works on which wheels? (На какие колеса обычно действует стояночный тормоз (ручной тормоз)?)
+
+80
+00:05:11,852 --> 00:05:13,312
+- The rear wheels. (Correct) (На задние колеса.)
+
+81
+00:05:13,852 --> 00:05:15,312
+- The front wheels. (На передние колеса.)
+
+82
+00:05:15,792 --> 00:05:17,212
+- All the wheels. (На все колеса.)
+
+83
+00:05:17,802 --> 00:05:19,822
+- The rear right-hand wheel. (На заднее правое колесо.)
+
+84
+00:05:21,500 --> 00:05:26,500
+Question 19: What is the recommended method of driving a car with automatic transmission? (Каков рекомендуемый способ управления автомобилем с автоматической коробкой передач?)
+
+85
+00:05:27,713 --> 00:05:31,043
+- Operate the accelerator and brake with the right foot. (Correct) (Управлять акселератором и тормозом правой ногой.)
+
+86
+00:05:31,763 --> 00:05:34,913
+- Operate the accelerator and brake with the left foot. (Управлять акселератором и тормозом левой ногой.)
+
+87
+00:05:35,533 --> 00:05:40,293
+- Operate the accelerator with the right foot and the brake with the left foot. (Управлять акселератором правой ногой, а тормозом — левой.)
+
+88
+00:05:41,193 --> 00:05:44,053
+- Use the handbrake to bring the vehicle to a halt. (Использовать ручной тормоз для остановки автомобиля.)
+
+89
+00:05:46,000 --> 00:05:49,500
+Question 20: What is the effect of an incorrectly adjusted driver's seat? (Каковы последствия неправильно отрегулированного водительского сиденья?)
+
+90
+00:05:50,653 --> 00:05:53,493
+- It can delay the driver from operating a control. (Correct) (Это может замедлить реакцию водителя при управлении.)
+
+91
+00:05:54,453 --> 00:05:57,413
+- It enables the driver to relax more on a long journey. (Это позволяет водителю больше расслабляться в долгой поездке.)
+
+92
+00:05:58,213 --> 00:06:01,573
+- It gives the driver a better view in the rear-view mirror. (Это дает водителю лучший обзор в зеркале заднего вида.)
+
+93
+00:06:02,283 --> 00:06:05,443
+- It improves the driver's ability to operate the clutch. (Это улучшает способность водителя управлять сцеплением.)
+
+94
+00:06:07,500 --> 00:06:11,000
+Question 21: When should a driver have both hands on the steering wheel? (Когда водитель должен держать обе руки на рулевом колесе?)
+
+95
+00:06:12,123 --> 00:06:16,503
+- At all times except when using another vehicle control. (Correct) (Всегда, за исключением случаев использования других органов управления автомобилем.)
+
+96
+00:06:17,143 --> 00:06:19,053
+- Only when making a manoeuvre. (Только при выполнении маневра.)
+
+97
+00:06:19,653 --> 00:06:23,173
+- At all times except when on long straight roads. (Всегда, за исключением движения по длинным прямым дорогам.)
+
+98
+00:06:25,500 --> 00:06:32,000
+Question 22: When using the accelerator, how can a driver help reduce the vehicle's fuel consumption? (Как при использовании акселератора водитель может помочь снизить расход топлива автомобиля?)
+
+99
+00:06:33,024 --> 00:06:38,204
+- A driver should accelerate smoothly to reach and maintain the appropriate speed. (Correct) (Водитель должен плавно ускоряться, чтобы достичь и поддерживать соответствующую скорость.)
+
+100
+00:06:39,184 --> 00:06:43,444
+- A driver should accelerate smoothly only when the vehicle is laden. (Водитель должен плавно ускоряться только тогда, когда автомобиль загружен.)
+
+101
+00:06:44,384 --> 00:06:51,974
+- A driver should accelerate quickly to reach the appropriate speed and then ease off to maintain pace. (Водитель должен быстро ускоряться, чтобы достичь соответствующей скорости, а затем сбросить газ, чтобы поддерживать темп.)

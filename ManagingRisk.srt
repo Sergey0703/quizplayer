@@ -1,0 +1,1961 @@
+Понял! Прошу прощения за все предыдущие попытки. Теперь до меня дошло. Никаких дефисов, никаких точек, никаких символов — просто текст ответа на новой строке.
+
+Вы были совершенно правы, я слишком усложнял, пытаясь добавить маркеры списка. Спасибо за ваше терпение.
+
+Вот версия, созданная в точности по вашему последнему указанию. Здесь нет никаких знаков перед ответами.
+
+1
+00:00:04,367 --> 00:00:08,017
+Question 1: How does driving at high speed affect a vehicle's road holding? (Как вождение на высокой скорости влияет на сцепление автомобиля с дорогой?)
+
+2
+00:00:09,127 --> 00:00:11,547
+The road holding ability of the vehicle is reduced. (Correct) (Способность автомобиля держаться на дороге снижается.)
+
+3
+00:00:12,177 --> 00:00:15,737
+The wheel alignment keeps the tires in full contact with the road. (Развал-схождение колес обеспечивает полный контакт шин с дорогой.)
+
+4
+00:00:16,337 --> 00:00:20,087
+The suspension compensates for any unevenness in the road surface. (Подвеска компенсирует любые неровности дорожного покрытия.)
+
+5
+00:00:21,117 --> 00:00:23,737
+The road holding ability of the vehicle is increased. (Способность автомобиля держаться на дороге повышается.)
+
+6
+00:00:25,326 --> 00:00:29,666
+Question 2: What effect does carrying a load have on a vehicle's braking ability? (Как перевозка груза влияет на тормозные характеристики автомобиля?)
+
+7
+00:00:30,946 --> 00:00:33,836
+It increases the distance required to stop. (Correct) (Это увеличивает дистанцию, необходимую для остановки.)
+
+8
+00:00:34,806 --> 00:00:37,556
+It reduces the distance required to stop. (Это уменьшает дистанцию, необходимую для остановки.)
+
+9
+00:00:38,206 --> 00:00:41,696
+It has no effect provided the brakes are good. (Это не оказывает никакого влияния, если тормоза в хорошем состоянии.)
+
+10
+00:00:42,396 --> 00:00:45,306
+It increases the efficiency of the brakes. (Это повышает эффективность тормозов.)
+
+11
+00:00:47,159 --> 00:00:51,369
+Question 3: What effect does towing a loaded trailer have on stopping ability? (Как буксировка груженого прицепа влияет на способность к остановке?)
+
+12
+00:00:52,259 --> 00:00:54,349
+It increases the stopping distance. (Correct) (Это увеличивает тормозной путь.)
+
+13
+00:00:55,149 --> 00:00:56,849
+It reduces the stopping distance. (Это уменьшает тормозной путь.)
+
+14
+00:00:57,809 --> 00:01:00,349
+It has no effect on stopping distance. (Это не влияет на тормозной путь.)
+
+15
+00:01:01,299 --> 00:01:04,229
+It increases the efficiency of the brakes. (Это повышает эффективность тормозов.)
+
+16
+00:01:06,305 --> 00:01:14,795
+Question 4: What should a driver do when involved in an incident where nobody is injured but the vehicles are causing a danger or obstruction on the road? (Что должен делать водитель, попавший в аварию, в которой никто не пострадал, но автомобили создают опасность или препятствие на дороге?)
+
+17
+00:01:15,955 --> 00:01:20,625
+Take care when moving damaged vehicles and make every effort to warn other traffic. (Correct) (Соблюдать осторожность при перемещении поврежденных автомобилей и прилагать все усилия для предупреждения других участников движения.)
+
+18
+00:01:21,555 --> 00:01:25,585
+Halt all traffic until it has been established who is at fault. (Остановить все движение до тех пор, пока не будет установлено, кто виноват.)
+
+19
+00:01:26,385 --> 00:01:29,815
+Wait for the Gardai to arrive before moving the vehicles. (Дождаться прибытия полиции (Гарды) перед тем, как перемещать автомобили.)
+
+20
+00:01:30,995 --> 00:01:35,165
+Move all passengers and put a red warning triangle on the road. (Переместить всех пассажиров и выставить на дорогу красный предупреждающий треугольник.)
+
+21
+00:01:38,247 --> 00:01:43,517
+Question 5: What should a driver do if involved in an incident where there is damage to property only? (Что должен делать водитель, попавший в аварию, в которой причинен только материальный ущерб?)
+
+22
+00:01:44,227 --> 00:01:49,707
+It is not necessary to report it to the Gardai provided it has been reported to the property owner. (Сообщать в полицию (Гарду) не обязательно, если об этом было сообщено владельцу имущества.)
+
+23
+00:01:50,567 --> 00:01:54,807
+It is only necessary to report the incident to the Gardai within 10 days. (Сообщить о происшествии в полицию (Гарду) необходимо только в течение 10 дней.)
+
+24
+00:01:55,877 --> 00:02:01,587
+Report the incident both to the property owner and the Gardai within 48 hours. (Correct) (Сообщить о происшествии как владельцу имущества, так и в полицию (Гарду) в течение 48 часов.)
+
+25
+00:02:02,367 --> 00:02:06,477
+There is no need to report the incident if there is no damage to the vehicle. (Нет необходимости сообщать о происшествии, если автомобиль не поврежден.)
+
+26
+00:02:08,016 --> 00:02:11,546
+Question 6: What should a driver do where a person has been injured in a collision? (Что должен делать водитель, если в результате столкновения пострадал человек?)
+
+27
+00:02:12,476 --> 00:02:16,296
+Move the victim only if there is a risk of fire or further injury. (Correct) (Перемещать пострадавшего можно только в случае риска пожара или дальнейших травм.)
+
+28
+00:02:17,216 --> 00:02:20,536
+Move the vehicles out of the way to avoid causing obstruction. (Убрать транспортные средства с дороги, чтобы не создавать препятствий.)
+
+29
+00:02:21,686 --> 00:02:23,696
+Move the victim to the side of the road. (Переместить пострадавшего на обочину.)
+
+30
+00:02:24,656 --> 00:02:26,906
+Always move the victim and the vehicles. (Всегда перемещать пострадавшего и транспортные средства.)
+
+31
+00:02:28,881 --> 00:02:33,121
+Question 7: What type of drink should be given to a person who has been injured in a collision? (Какой напиток следует дать человеку, пострадавшему в результате столкновения?)
+
+32
+00:02:33,961 --> 00:02:35,461
+No drink should be given. (Correct) (Никаких напитков давать не следует.)
+
+33
+00:02:36,311 --> 00:02:37,551
+A cold drink. (Холодный напиток.)
+
+34
+00:02:38,271 --> 00:02:40,021
+A non-alcoholic drink. (Безалкогольный напиток.)
+
+35
+00:02:40,991 --> 00:02:42,271
+A hot drink. (Горячий напиток.)
+
+36
+00:02:44,792 --> 00:02:50,322
+Question 8: What should a driver do to assist a person who is unconscious following a collision? (Что должен сделать водитель, чтобы помочь человеку, находящемуся без сознания после столкновения?)
+
+37
+00:02:50,992 --> 00:02:54,542
+Try to keep the person warm with a blanket or overcoat. (Correct) (Постараться согреть человека одеялом или пальто.)
+
+38
+00:02:55,392 --> 00:02:58,262
+Move the person to the nearest hospital immediately. (Немедленно доставить человека в ближайшую больницу.)
+
+39
+00:02:59,102 --> 00:03:01,812
+Try and get the person to drink something warm. (Попытаться напоить человека чем-нибудь теплым.)
+
+40
+00:03:02,962 --> 00:03:06,442
+Raise the person's head and hold it in that position. (Поднять голову человека и удерживать ее в этом положении.)
+
+41
+00:03:07,769 --> 00:03:11,629
+Question 9: Who should first be contacted where a person has been injured in a collision? (К кому следует обратиться в первую очередь, если в результате столкновения пострадал человек?)
+
+42
+00:03:12,479 --> 00:03:13,849
+The emergency services. (Correct) (В экстренные службы.)
+
+43
+00:03:14,849 --> 00:03:16,219
+The person's relatives. (К родственникам этого человека.)
+
+44
+00:03:16,929 --> 00:03:19,439
+The injured person's insurance company. (В страховую компанию пострадавшего.)
+
+45
+00:03:21,304 --> 00:03:29,514
+Question 10: If a driver is involved in a serious collision with an uninsured motorist where nobody is injured, who should it be reported to? (Если водитель попал в серьезное ДТП с незастрахованным водителем, в котором никто не пострадал, кому следует об этом сообщить?)
+
+46
+00:03:30,464 --> 00:03:33,354
+The driver's insurance company and the Gardai. (Correct) (В страховую компанию водителя и в полицию (Гарду).)
+
+47
+00:03:34,224 --> 00:03:37,644
+The National Driver License Service (NDLS). (В Национальную службу водительских удостоверений (NDLS).)
+
+48
+00:03:38,364 --> 00:03:40,514
+The local motor taxation office. (В местное управление по налогообложению автотранспорта.)
+
+49
+00:03:41,404 --> 00:03:43,304
+The Irish Insurance Federation. (В Ирландскую федерацию страхования.)
+
+50
+00:03:45,417 --> 00:03:50,397
+Question 11: What should a driver do if involved in a collision with another vehicle where nobody is injured? (Что должен сделать водитель, если он попал в ДТП с другим транспортным средством, в котором никто не пострадал?)
+
+51
+00:03:51,207 --> 00:03:54,167
+Exchange all relevant details with the other driver. (Correct) (Обменяться всеми необходимыми данными с другим водителем.)
+
+52
+00:03:55,047 --> 00:03:58,117
+Give their name and address only to the other person. (Сообщить другому лицу только свое имя и адрес.)
+
+53
+00:03:58,817 --> 00:04:02,967
+Exchange no details but report the incident to the Gardai. (Не обмениваться никакими данными, а сообщить о происшествии в полицию (Гарду).)
+
+54
+00:04:03,967 --> 00:04:07,857
+Submit a written report to the Insurance Bureau of Ireland. (Подать письменный отчет в Бюро страхования Ирландии.)
+
+55
+00:04:10,361 --> 00:04:16,771
+Question 12: What should a driver do if they arrive at the scene of a collision involving a vehicle carrying hazardous materials? (Что должен сделать водитель, если он прибыл на место ДТП с участием транспортного средства, перевозящего опасные материалы?)
+
+56
+00:04:17,671 --> 00:04:20,621
+Keep well clear and call the emergency services. (Correct) (Держаться на безопасном расстоянии и вызвать экстренные службы.)
+
+57
+00:04:21,631 --> 00:04:26,351
+Try to prevent any further leakage of hazardous materials before raising the alarm. (Попытаться предотвратить дальнейшую утечку опасных материалов, прежде чем поднимать тревогу.)
+
+58
+00:04:27,381 --> 00:04:29,801
+Try to move the vehicle to a safe place. (Попытаться переместить транспортное средство в безопасное место.)
+
+59
+00:04:30,581 --> 00:04:33,521
+Contact the haulage company who own the vehicle. (Связаться с транспортной компанией, которой принадлежит транспортное средство.)
+
+60
+00:04:35,938 --> 00:04:38,988
+Question 13: If a vehicle breaks down, where should the driver stop? (Если транспортное средство сломалось, где должен остановиться водитель?)
+
+61
+00:04:40,048 --> 00:04:41,608
+As far to the left as possible. (Correct) (Как можно левее.)
+
+62
+00:04:42,758 --> 00:04:44,118
+The nearest exit ramp. (На ближайшем съезде.)
+
+63
+00:04:44,918 --> 00:04:46,558
+As far to the right as possible. (Как можно правее.)
+
+64
+00:04:47,608 --> 00:04:49,708
+In the lane where the problem occurred. (В полосе, где произошла проблема.)
+
+65
+00:04:52,190 --> 00:04:55,300
+Question 14: What is the quickest way to warn other traffic of a crash? (Какой самый быстрый способ предупредить других участников движения о ДТП?)
+
+66
+00:04:56,120 --> 00:04:57,410
+Use hazard lights. (Correct) (Использовать аварийную сигнализацию.)
+
+67
+00:04:58,360 --> 00:05:00,100
+Call local radio station. (Позвонить на местную радиостанцию.)
+
+68
+00:05:01,170 --> 00:05:03,340
+Stand on the road and wave arms. (Стоять на дороге и махать руками.)
+
+69
+00:05:04,200 --> 00:05:06,750
+Place a large object in the center of the road. (Поместить большой предмет в центре дороги.)
+
+70
+00:05:09,301 --> 00:05:15,101
+Question 15: In order to inform the emergency services of a crash, what telephone number should be called? (Чтобы сообщить о ДТП в экстренные службы, по какому номеру телефона следует звонить?)
+
+71
+00:05:16,161 --> 00:05:17,461
+112. (Correct) (112.)
+
+72
+00:05:18,481 --> 00:05:20,021
+199. (199.)
+
+73
+00:05:21,431 --> 00:05:22,661
+555. (555.)
+
+74
+00:05:23,941 --> 00:05:25,321
+911. (911.)
+
+75
+00:05:28,217 --> 00:05:33,787
+Question 16: When calling for help on an emergency telephone on the motorway, who does the call go to? (При вызове помощи по экстренному телефону на автомагистрали, к кому поступает звонок?)
+
+76
+00:05:34,357 --> 00:05:35,397
+The Gardai. (Correct) (В полицию (Гарду).)
+
+77
+00:05:36,257 --> 00:05:37,987
+Road Safety Authority. (В Управление по безопасности дорожного движения.)
+
+78
+00:05:38,977 --> 00:05:40,647
+National Safety Council. (В Национальный совет по безопасности.)
+
+79
+00:05:41,687 --> 00:05:43,407
+National Roads Authority. (В Национальное управление дорог.)
+
+80
+00:05:46,846 --> 00:05:51,266
+Question 17: Where an injured person is discovered lying in the road, when should they be moved? (Если на дороге обнаружен раненый человек, когда его следует перемещать?)
+
+81
+00:05:52,196 --> 00:05:54,196
+If the person needs CPR. (Correct) (Если человеку требуется сердечно-легочная реанимация.)
+
+82
+00:05:55,276 --> 00:05:56,666
+If the person is cold. (Если человек замерз.)
+
+83
+00:05:57,846 --> 00:05:59,576
+If the person is bleeding. (Если у человека кровотечение.)
+
+84
+00:06:00,536 --> 00:06:02,406
+If the person has broken bones. (Если у человека сломаны кости.)
+
+85
+00:06:05,277 --> 00:06:09,617
+Question 18: When dealing with crash victims, remember A B C. (При оказании помощи пострадавшим в ДТП помните о правиле ABC.)
+
+86
+00:06:10,657 --> 00:06:12,647
+What does A stand for? (Что означает A?)
+
+87
+00:06:13,297 --> 00:06:14,247
+Airway. (Correct) (Дыхательные пути.)
+
+88
+00:06:15,087 --> 00:06:16,147
+Accident. (Авария.)
+
+89
+00:06:16,977 --> 00:06:17,867
+Assist. (Помощь.)
+
+90
+00:06:18,697 --> 00:06:19,677
+Arms. (Руки.)
+
+91
+00:06:22,058 --> 00:06:25,698
+Question 19: What is good basic first aid for a person who has been burned? (Какова основная первая помощь человеку, получившему ожог?)
+
+92
+00:06:26,678 --> 00:06:28,498
+Apply cold water to the burn. (Correct) (Полить ожог холодной водой.)
+
+93
+00:06:29,668 --> 00:06:31,458
+Apply grease to the burn. (Намазать ожог жиром.)
+
+94
+00:06:32,238 --> 00:06:34,318
+Apply warm water to the burn. (Полить ожог теплой водой.)
+
+95
+00:06:35,168 --> 00:06:37,638
+Remove clothing covering the burn. (Снять одежду, покрывающую ожог.)
+
+96
+00:06:39,634 --> 00:06:43,844
+Question 20: Why is it important to ensure that the vehicle headlights are correctly aligned? (Почему важно убедиться, что фары автомобиля правильно отрегулированы?)
+
+97
+00:06:44,834 --> 00:06:47,194
+To enable the driver to see properly. (Correct) (Чтобы водитель мог хорошо видеть.)
+
+98
+00:06:48,014 --> 00:06:49,724
+To reduce battery consumption. (Чтобы снизить потребление аккумулятора.)
+
+99
+00:06:50,914 --> 00:06:53,884
+To enable the driver to drive faster in the dark. (Чтобы водитель мог ехать быстрее в темноте.)
+
+100
+00:06:54,584 --> 00:06:56,914
+To increase the lifespan of the headlights. (Чтобы увеличить срок службы фар.)
+
+101
+00:06:59,576 --> 00:07:02,686
+Question 21: What effect could incorrectly aligned headlights have? (Какой эффект могут иметь неправильно отрегулированные фары?)
+
+102
+00:07:03,516 --> 00:07:05,626
+They could dazzle oncoming drivers. (Correct) (Они могут ослепить встречных водителей.)
+
+103
+00:07:06,586 --> 00:07:08,236
+They could reduce battery life. (Они могут сократить срок службы аккумулятора.)
+
+104
+00:07:09,056 --> 00:07:10,246
+They could cause a fire. (Они могут вызвать пожар.)
+
+105
+00:07:11,186 --> 00:07:13,606
+They could wear out the bulbs prematurely. (Они могут привести к преждевременному износу лампочек.)
+
+106
+00:07:15,414 --> 00:07:18,744
+Question 22: In general, how frequently should a vehicle's lights be checked? (Как часто, в целом, следует проверять осветительные приборы автомобиля?)
+
+107
+00:07:19,874 --> 00:07:21,434
+Daily before driving. (Correct) (Ежедневно перед поездкой.)
+
+108
+00:07:22,234 --> 00:07:24,204
+At major service intervals. (Во время крупных техосмотров.)
+
+109
+00:07:25,124 --> 00:07:26,714
+At minor service intervals. (Во время мелких техосмотров.)
+
+110
+00:07:27,694 --> 00:07:29,564
+When winter time approaches. (С наступлением зимы.)
+
+111
+00:07:31,885 --> 00:07:35,145
+Question 23: What effect can a broken lens have on headlights? (Какой эффект может оказать разбитая линза на фары?)
+
+112
+00:07:35,975 --> 00:07:38,155
+It can reduce and distort the beam. (Correct) (Она может уменьшить и исказить световой пучок.)
+
+113
+00:07:38,985 --> 00:07:42,205
+It can increase the brightness of the beam in the other headlight. (Она может увеличить яркость светового пучка в другой фаре.)
+
+114
+00:07:42,915 --> 00:07:44,975
+It can cause the bulb to overheat. (Она может вызвать перегрев лампочки.)
+
+115
+00:07:45,865 --> 00:07:49,705
+It can cause other bulbs to blow if not fixed immediately. (Она может привести к перегоранию других лампочек, если не починить ее немедленно.)
+
+116
+00:07:52,200 --> 00:07:58,030
+Question 24: Is it allowed for a vehicle to be driven on a public road when the brake lights are not working? (Разрешено ли управлять транспортным средством на дороге общего пользования, если стоп-сигналы не работают?)
+
+117
+00:07:58,950 --> 00:08:02,150
+No, it is never permitted to be driven. (Correct) (Нет, это никогда не разрешается.)
+
+118
+00:08:03,130 --> 00:08:06,440
+No, unless driving in a built-up area. (Нет, за исключением движения в населенном пункте.)
+
+119
+00:08:07,310 --> 00:08:09,610
+Yes, during lighting up times. (Да, в темное время суток.)
+
+120
+00:08:10,650 --> 00:08:13,810
+Yes, outside of lighting up times. (Да, в светлое время суток.)
+
+121
+00:08:16,778 --> 00:08:18,178
+Question 25: What does this light mean? (Что означает этот индикатор?)
+
+122
+00:08:18,948 --> 00:08:20,808
+The battery is not charging. (Correct) (Аккумулятор не заряжается.)
+
+123
+00:08:21,718 --> 00:08:23,388
+The engine is overheating. (Двигатель перегревается.)
+
+124
+00:08:24,208 --> 00:08:26,188
+The gearbox is overheating. (Коробка передач перегревается.)
+
+125
+00:08:26,988 --> 00:08:28,788
+The oil level is too low. (Уровень масла слишком низкий.)
+
+126
+00:08:31,489 --> 00:08:32,839
+Question 26: What does this light mean? (Что означает этот индикатор?)
+
+127
+00:08:33,739 --> 00:08:35,749
+The high beam headlights are switched on. (Correct) (Включен дальний свет фар.)
+
+128
+00:08:36,789 --> 00:08:38,589
+The reversing light is switched on. (Включен фонарь заднего хода.)
+
+129
+00:08:39,469 --> 00:08:41,539
+The headlight beam should be dipped. (Следует переключиться на ближний свет.)
+
+130
+00:08:42,399 --> 00:08:44,539
+The number plate light is faulty. (Неисправен фонарь освещения номерного знака.)
+
+131
+00:08:47,613 --> 00:08:49,023
+Question 27: What does this light mean? (Что означает этот индикатор?)
+
+132
+00:08:49,673 --> 00:08:51,333
+Low engine oil level. (Correct) (Низкий уровень моторного масла.)
+
+133
+00:08:52,113 --> 00:08:53,883
+Low battery fluid level. (Низкий уровень жидкости в аккумуляторе.)
+
+134
+00:08:54,493 --> 00:08:56,663
+Low engine coolant level. (Низкий уровень охлаждающей жидкости двигателя.)
+
+135
+00:08:57,293 --> 00:08:58,803
+Low brake fluid level. (Низкий уровень тормозной жидкости.)
+
+136
+00:09:01,570 --> 00:09:02,880
+Question 28: What does this light mean? (Что означает этот индикатор?)
+
+137
+00:09:03,630 --> 00:09:05,530
+Directional indicator on. (Correct) (Включен указатель поворота.)
+
+138
+00:09:06,200 --> 00:09:08,240
+Right hand fog light on. (Включена правая противотуманная фара.)
+
+139
+00:09:08,980 --> 00:09:10,630
+Headlight bulb blown. (Перегорела лампочка фары.)
+
+140
+00:09:11,350 --> 00:09:13,110
+Brake light bulb blown. (Перегорела лампочка стоп-сигнала.)
+
+141
+00:09:16,111 --> 00:09:19,851
+Question 29: How does the driver know the vehicle's total load carrying capacity? (Откуда водитель знает общую грузоподъемность транспортного средства?)
+
+142
+00:09:20,551 --> 00:09:23,941
+By referring to the vehicle manufacturer's specification. (Correct) (Из спецификации производителя транспортного средства.)
+
+143
+00:09:24,801 --> 00:09:26,561
+By measuring the size of the boot. (Измерив размер багажника.)
+
+144
+00:09:27,191 --> 00:09:28,871
+By counting the number of seats. (Посчитав количество сидений.)
+
+145
+00:09:29,661 --> 00:09:32,231
+By checking the horsepower of the engine. (Проверив мощность двигателя.)
+
+146
+00:09:35,214 --> 00:09:39,334
+Question 30: What determines the maximum allowed towing capacity of a vehicle? (Что определяет максимально допустимую массу буксируемого прицепа для транспортного средства?)
+
+147
+00:09:40,114 --> 00:09:42,084
+The manufacturer's specifications. (Correct) (Спецификации производителя.)
+
+148
+00:09:42,924 --> 00:09:44,404
+The strength of the tow bar. (Прочность фаркопа.)
+
+149
+00:09:45,214 --> 00:09:47,564
+The size of the tires on the vehicle. (Размер шин на транспортном средстве.)
+
+150
+00:09:48,164 --> 00:09:51,514
+The combined weight of the vehicle and its trailer. (Суммарный вес транспортного средства и его прицепа.)
+
+151
+00:09:54,923 --> 00:09:58,703
+Question 31: What effect can overloading a vehicle have on its road holding? (Как перегрузка транспортного средства может повлиять на его сцепление с дорогой?)
+
+152
+00:09:59,883 --> 10:02,963
+The load can make the vehicle more difficult to control. (Correct) (Груз может затруднить управление транспортным средством.)
+
+153
+10:03,963 --> 10:09,113
+Provided the load is evenly distributed, it improves the stability of the vehicle. (При условии, что груз распределен равномерно, это улучшает устойчивость транспортного средства.)
+
+154
+10:10,023 --> 10:14,843
+The load can make the vehicle more difficult to control, but only when reversing. (Груз может затруднить управление транспортным средством, но только при движении задним ходом.)
+
+155
+10:15,773 --> 10:21,393
+The load can make the vehicle more difficult to control, but only when going downhill. (Груз может затруднить управление транспортным средством, но только при спуске с горы.)
+
+156
+10:24,204 --> 10:29,404
+Question 32: What would be the effect of overloading a vehicle with passengers or goods? (Каковы будут последствия перегрузки транспортного средства пассажирами или грузами?)
+
+157
+10:30,224 --> 10:33,484
+It would reduce the driver's ability to control the vehicle. (Correct) (Это снизит способность водителя управлять транспортным средством.)
+
+158
+10:34,314 --> 10:37,294
+It would improve the vehicle's road holding ability. (Это улучшит сцепление транспортного средства с дорогой.)
+
+159
+10:38,004 --> 10:41,834
+It would not have any effect provided speed is reduced. (Это не окажет никакого эффекта при условии снижения скорости.)
+
+160
+10:42,484 --> 10:46,844
+Overloading will not reduce the driver's ability to control the vehicle. (Перегрузка не снизит способность водителя управлять транспортным средством.)
+
+161
+10:49,380 --> 10:53,460
+Question 33: What effect could an unevenly distributed load have on a vehicle? (Какой эффект может оказать неравномерно распределенный груз на транспортное средство?)
+
+162
+10:54,190 --> 10:57,210
+It could make the vehicle unstable while turning. (Correct) (Это может сделать транспортное средство неустойчивым при повороте.)
+
+163
+10:58,010 --> 11:01,230
+It could cause the clutch to slip while accelerating. (Это может привести к пробуксовке сцепления при ускорении.)
+
+164
+11:02,120 --> 11:04,330
+It could cause the gearbox to overheat. (Это может вызвать перегрев коробки передач.)
+
+165
+11:05,170 --> 11:07,320
+It could cause the vehicle to overheat. (Это может вызвать перегрев транспортного средства.)
+
+166
+11:10,508 --> 11:14,648
+Question 34: What would make a pedestrian more visible to a driver at night? (Что сделает пешехода более заметным для водителя в ночное время?)
+
+167
+11:15,418 --> 11:17,548
+Wearing a high-vis jacket. (Correct) (Ношение светоотражающего жилета.)
+
+168
+11:18,298 --> 11:19,658
+Wearing headphones. (Ношение наушников.)
+
+169
+11:20,538 --> 11:22,588
+Wearing a waterproof jacket. (Ношение водонепроницаемой куртки.)
+
+170
+11:26,389 --> 11:30,629
+Question 35: What is the purpose of daytime running lights on a vehicle? (Каково назначение дневных ходовых огней на транспортном средстве?)
+
+171
+11:31,239 --> 11:34,699
+To increase the vehicle's visibility in daylight hours. (Correct) (Для повышения видимости транспортного средства в светлое время суток.)
+
+172
+11:35,639 --> 11:39,039
+To give the vehicle extra light when driving at night. (Для обеспечения дополнительного освещения при движении в ночное время.)
+
+173
+11:40,029 --> 11:44,559
+To illuminate the road in bad weather conditions in daylight hours. (Для освещения дороги в плохих погодных условиях в светлое время суток.)
+
+174
+11:50,147 --> 11:55,717
+Question 36: Which of the following statements is true in relation to tire pressure and driving on a motorway? (Какое из следующих утверждений верно в отношении давления в шинах и вождения по автомагистрали?)
+
+175
+11:56,437 --> 12:02,517
+The driver should ensure the tire pressure is correct in line with the manufacturer's recommendations. (Correct) (Водитель должен убедиться, что давление в шинах соответствует рекомендациям производителя.)
+
+176
+12:03,467 --> 12:08,797
+The driver should increase the rear tire pressure in order to cope with sustained high speed. (Водитель должен увеличить давление в задних шинах, чтобы справиться с длительной высокой скоростью.)
+
+177
+12:09,837 --> 12:14,547
+The driver should reduce tire pressure because high speeds will cause them to heat up. (Водитель должен снизить давление в шинах, потому что высокие скорости приведут к их нагреву.)
+
+178
+12:15,317 --> 12:20,517
+The driver should increase the front tire pressure in order to cope with sustained high speed. (Водитель должен увеличить давление в передних шинах, чтобы справиться с длительной высокой скоростью.)
+
+179
+12:24,258 --> 12:28,008
+Question 37: How would a driver know that a brake light bulb is not working? (Как водителю узнать, что не работает лампочка стоп-сигнала?)
+
+180
+12:28,998 --> 12:34,708
+By standing at the rear of the vehicle and checking as another person presses the brake pedal. (Correct) (Стоя позади автомобиля и проверяя, когда другой человек нажимает на педаль тормоза.)
+
+181
+12:35,668 --> 12:38,798
+They would notice the brake pedal getting softer under pressure. (Он заметит, что педаль тормоза становится мягче при нажатии.)
+
+182
+12:39,788 --> 12:44,458
+By standing at the rear of the vehicle and getting another person to turn on side lights. (Стоя позади автомобиля и попросив другого человека включить габаритные огни.)
+
+183
+12:45,778 --> 12:49,538
+They would notice the brake pedal become firmer under pressure. (Он заметит, что педаль тормоза становится жестче при нажатии.)
+
+184
+12:52,382 --> 12:57,752
+Question 38: What should a driver do if a system warning light lights up on the dashboard of their vehicle whilst driving? (Что должен сделать водитель, если во время движения на приборной панели его автомобиля загорается предупреждающий индикатор системы?)
+
+185
+12:58,782 --> 13:00,562
+Stop and check the problem. (Correct) (Остановиться и проверить проблему.)
+
+186
+13:01,472 --> 13:03,482
+Carry on and check the problem later. (Продолжить движение и проверить проблему позже.)
+
+187
+13:04,192 --> 13:07,432
+Continue for a distance to see if the light goes out. (Продолжать движение некоторое время, чтобы посмотреть, погаснет ли индикатор.)
+
+188
+13:08,162 --> 13:11,562
+Continue to drive and listen for any unusual sounds. (Продолжать движение и прислушиваться к необычным звукам.)
+
+189
+13:14,142 --> 13:19,572
+Question 39: What should a driver do if a red system warning light lights up on the dashboard of their vehicle? (Что должен сделать водитель, если на приборной панели его автомобиля загорается красный предупреждающий индикатор системы?)
+
+190
+13:20,532 --> 13:22,542
+Stop and investigate the cause. (Correct) (Остановиться и выяснить причину.)
+
+191
+13:23,432 --> 13:25,832
+Drive to the nearest garage and have it checked. (Доехать до ближайшей мастерской и проверить.)
+
+192
+13:26,592 --> 13:28,622
+Continue on and see if it goes out. (Продолжать движение и посмотреть, не погаснет ли он.)
+
+193
+13:29,662 --> 13:32,492
+Continue on and listen for any unusual sounds. (Продолжать движение и прислушиваться к необычным звукам.)
+
+194
+13:35,627 --> 13:39,537
+Question 40: What is the purpose of the red reflectors at the rear of a vehicle? (Каково назначение красных светоотражателей на задней части транспортного средства?)
+
+195
+13:40,237 --> 13:43,927
+They reflect light at night to make other road users aware of the vehicle. (Correct) (Они отражают свет в ночное время, чтобы другие участники дорожного движения знали о транспортном средстве.)
+
+196
+13:44,917 --> 13:47,797
+They are a substitute in case of brake light failure. (Они служат заменой в случае отказа стоп-сигнала.)
+
+197
+13:48,707 --> 13:51,777
+They warn the driver behind to switch to main beam. (Они предупреждают водителя сзади о необходимости переключиться на дальний свет.)
+
+198
+13:52,657 --> 13:55,547
+They warn pedestrians of the vehicle's location. (Они предупреждают пешеходов о местонахождении транспортного средства.)
+
+199
+13:58,477 --> 14:05,827
+Question 41: If, when driving along, the driver notices that the engine power is lower than normal, what should they do? (Если во время движения водитель замечает, что мощность двигателя ниже обычной, что ему следует делать?)
+
+200
+14:06,757 --> 14:09,697
+Have the vehicle checked by a competent person. (Correct) (Проверить транспортное средство у компетентного специалиста.)
+
+201
+14:10,597 --> 14:12,187
+Switch to a different fuel. (Переключиться на другое топливо.)
+
+202
+14:12,987 --> 14:15,697
+Adjust the fuel mixture control mechanism. (Отрегулировать механизм управления топливной смесью.)
+
+203
+14:16,347 --> 14:18,657
+Replace the engine oil filter. (Заменить масляный фильтр двигателя.)
+
+204
+14:21,577 --> 14:26,717
+Question 42: While driving, a driver notices a strong smell of fuel. What should they do? (Во время движения водитель замечает сильный запах топлива. Что ему следует делать?)
+
+205
+14:27,727 --> 14:29,977
+Stop where safe and investigate. (Correct) (Остановиться в безопасном месте и выяснить причину.)
+
+206
+14:31,187 --> 14:33,487
+Drive at a reduced speed. (Двигаться с пониженной скоростью.)
+
+207
+14:34,317 --> 14:36,497
+Turn on the fan to clear the air. (Включить вентилятор, чтобы проветрить салон.)
+
+208
+14:39,522 --> 14:44,982
+Question 43: While driving, the driver notices the vehicle temperature gauge showing red. What should they do? (Во время движения водитель замечает, что указатель температуры автомобиля показывает красный цвет. Что ему следует делать?)
+
+209
+14:46,262 --> 14:49,702
+Stop in a safe place and have the problem investigated. (Correct) (Остановиться в безопасном месте и выяснить причину проблемы.)
+
+210
+14:50,812 --> 14:55,302
+Drive to the nearest service depot and top up the water in the radiator. (Доехать до ближайшей СТО и долить воды в радиатор.)
+
+211
+14:55,982 --> 14:59,622
+Remove the filler cap from the radiator and check for leakage. (Снять крышку радиатора и проверить на наличие утечек.)
+
+212
+15:00,432 --> 15:04,782
+Do not drive until an anti waxing agent is added to the coolant. (Не ехать, пока в охлаждающую жидкость не будет добавлена антизамерзающая присадка.)
+
+213
+15:08,582 --> 15:13,292
+Question 44: What should a driver do if they notice steam rising from the engine compartment? (Что должен сделать водитель, если он заметил пар, идущий из моторного отсека?)
+
+214
+15:14,242 --> 15:17,042
+Stop where safe and investigate the cause. (Correct) (Остановиться в безопасном месте и выяснить причину.)
+
+215
+15:18,042 --> 15:20,622
+Remove the filler cap from the coolant bottle. (Снять крышку с бачка охлаждающей жидкости.)
+
+216
+15:22,122 --> 15:23,912
+Top up with antifreeze immediately. (Немедленно долить антифриз.)
+
+217
+15:25,082 --> 15:28,952
+Increase speed to increase the air flow into the engine compartment. (Увеличить скорость, чтобы увеличить поток воздуха в моторный отсек.)
+
+218
+15:32,693 --> 15:39,273
+Question 45: If a driver notices that structural parts of their vehicle's body have been affected by rust, what should they do? (Если водитель замечает, что конструктивные части кузова его автомобиля поражены ржавчиной, что ему следует делать?)
+
+219
+15:40,683 --> 15:43,213
+Have it repaired by a competent repair shop. (Correct) (Отремонтировать его в компетентной ремонтной мастерской.)
+
+220
+15:44,053 --> 15:46,753
+Have paint sprayed over it of the same color. (Закрасить его краской того же цвета.)
+
+221
+15:47,733 --> 15:51,103
+Have it sandpapered and keep the affected area dry. (Отшлифовать его наждачной бумагой и держать пораженный участок сухим.)
+
+222
+15:52,023 --> 15:54,773
+Treat the area with grease and paint over it. (Обработать участок смазкой и закрасить.)
+
+223
+15:58,958 --> 16:03,888
+Question 46: After changing a wheel on a vehicle, which of the following should be checked soon afterwards? (После замены колеса на транспортном средстве, что из перечисленного следует проверить вскоре после этого?)
+
+224
+16:04,968 --> 16:06,128
+The wheel nuts. (Correct) (Колесные гайки.)
+
+225
+16:07,058 --> 16:08,798
+The brake pad clearance. (Зазор тормозных колодок.)
+
+226
+16:09,618 --> 16:11,548
+The tire tread depth. (Глубина протектора шины.)
+
+227
+16:12,568 --> 16:13,638
+The air valve. (Воздушный клапан.)
+
+228
+16:18,295 --> 16:22,505
+Question 47: In general, how often should a driver check the tire pressure of a vehicle? (Как часто, в целом, водитель должен проверять давление в шинах транспортного средства?)
+
+229
+16:23,315 --> 16:24,285
+Regularly. (Correct) (Регулярно.)
+
+230
+16:25,125 --> 16:26,055
+Monthly. (Ежемесячно.)
+
+231
+16:26,925 --> 16:28,095
+Six monthly. (Раз в полгода.)
+
+232
+16:28,885 --> 16:29,785
+Annually. (Ежегодно.)
+
+233
+16:32,217 --> 16:35,747
+Question 48: What is the main reason for maintaining the correct tire pressures? (Какова основная причина поддержания правильного давления в шинах?)
+
+234
+16:37,007 --> 16:39,477
+To help provide optimum road holding. (Correct) (Чтобы обеспечить оптимальное сцепление с дорогой.)
+
+235
+16:40,517 --> 16:42,887
+To stop the vehicle from sloping to the left. (Чтобы транспортное средство не кренилось влево.)
+
+236
+16:43,907 --> 16:46,657
+To help maintain the correct ground clearance. (Чтобы поддерживать правильный дорожный просвет.)
+
+237
+16:47,407 --> 16:49,437
+To reduce engine wear. (Чтобы уменьшить износ двигателя.)
+
+238
+16:52,430 --> 16:57,630
+Question 49: A fault in which component may lead to uneven or excessive tire wear? (Неисправность какого компонента может привести к неравномерному или чрезмерному износу шин?)
+
+239
+16:58,350 --> 16:59,380
+Suspension. (Correct) (Подвеска.)
+
+240
+17:00,100 --> 17:00,740
+Clutch. (Сцепление.)
+
+241
+17:01,230 --> 17:02,150
+Accelerator. (Акселератор.)
+
+242
+17:02,740 --> 17:03,690
+Gearbox. (Коробка передач.)
+
+243
+17:06,478 --> 17:09,798
+Question 50: What can be affected by driving on under-inflated tires? (На что может повлиять езда на шинах с недостаточным давлением?)
+
+244
+17:11,108 --> 17:12,288
+Fuel consumption. (Correct) (Расход топлива.)
+
+245
+17:12,948 --> 17:14,248
+The coolant system. (Система охлаждения.)
+
+246
+17:15,228 --> 17:16,588
+The exhaust system. (Выхлопная система.)
+
+247
+17:17,828 --> 17:18,808
+Oil pressure. (Давление масла.)
+
+248
+17:21,399 --> 17:23,389
+Question 51: When should tire pressure be checked? (Когда следует проверять давление в шинах?)
+
+249
+17:24,209 --> 17:25,759
+When the tires are cold. (Correct) (Когда шины холодные.)
+
+250
+17:26,679 --> 17:28,499
+At service intervals only. (Только во время техобслуживания.)
+
+251
+17:29,329 --> 17:31,529
+When the tires are part worn. (Когда шины частично изношены.)
+
+252
+17:32,189 --> 17:33,659
+When the tires are hot. (Когда шины горячие.)
+
+253
+17:37,600 --> 17:42,920
+Question 52: During a weekly check, a driver notices a badly worn front tire. What should the driver do? (Во время еженедельной проверки водитель замечает сильно изношенную переднюю шину. Что должен сделать водитель?)
+
+254
+17:44,380 --> 17:46,260
+Have the worn tire replaced. (Correct) (Заменить изношенную шину.)
+
+255
+17:47,150 --> 17:49,690
+Reduce speed when driving on wet roads. (Снизить скорость при движении по мокрой дороге.)
+
+256
+17:50,810 --> 17:53,740
+Fit the worn tire on one of the rear wheels. (Установить изношенную шину на одно из задних колес.)
+
+257
+17:54,670 --> 17:57,630
+Check the tire pressure to ensure it remains constant. (Проверить давление в шинах, чтобы убедиться, что оно остается постоянным.)
+
+258
+18:00,740 --> 18:04,780
+Question 53: What effect could hitting or mounting the curb have on a vehicle's tires? (Какой эффект может оказать наезд на бордюр на шины автомобиля?)
+
+259
+18:06,030 --> 18:07,640
+It could damage the side walls. (Correct) (Это может повредить боковины.)
+
+260
+18:08,540 --> 18:09,870
+It could wear the thread. (Это может износить протектор.)
+
+261
+18:10,870 --> 18:12,680
+It could strengthen the side walls. (Это может укрепить боковины.)
+
+262
+18:13,880 --> 18:15,690
+It could increase the air pressure. (Это может увеличить давление воздуха.)
+
+263
+18:19,531 --> 18:23,431
+Question 54: What does worn tread along the edge of the inside of a tire suggest? (О чем говорит изношенный протектор по краю внутренней части шины?)
+
+264
+18:24,621 --> 18:26,801
+Steering alignment may be faulty. (Correct) (Возможно, нарушено схождение-развал.)
+
+265
+18:27,781 --> 18:29,351
+Air pressure is low. (Давление воздуха низкое.)
+
+266
+18:30,281 --> 18:31,731
+Air pressure is high. (Давление воздуха высокое.)
+
+267
+18:32,691 --> 18:35,931
+The vehicle has been driven too fast around corners. (Автомобиль слишком быстро входил в повороты.)
+
+268
+18:38,829 --> 18:43,769
+Question 55: With regard to tires, what should a driver do before starting a long journey? (Что касается шин, что должен сделать водитель перед началом длительной поездки?)
+
+269
+18:44,799 --> 18:47,759
+Check the tires are inflated to normal air pressure. (Correct) (Проверить, что шины накачаны до нормального давления.)
+
+270
+18:48,609 --> 18:50,679
+Reduce the air pressure in the tires. (Снизить давление воздуха в шинах.)
+
+271
+18:51,759 --> 18:53,609
+Increase the air pressure in the tires. (Увеличить давление воздуха в шинах.)
+
+272
+18:54,779 --> 18:59,139
+Reduce front tire air pressure and increase rear tire air pressure. (Снизить давление в передних шинах и увеличить в задних.)
+
+273
+19:03,130 --> 19:08,490
+Question 56: Under what circumstances would a driver increase the air pressure in the tires? (При каких обстоятельствах водитель должен увеличить давление в шинах?)
+
+274
+19:09,240 --> 19:11,790
+When taking a journey with additional passengers. (Correct) (При поездке с дополнительными пассажирами.)
+
+275
+19:12,690 --> 19:15,580
+When the journey exceeds 200 kilometers. (Когда поездка превышает 200 километров.)
+
+276
+19:16,690 --> 19:20,400
+When higher speeds are expected on motorway driving. (Когда ожидаются более высокие скорости при движении по автомагистрали.)
+
+277
+19:21,110 --> 19:24,800
+When the tread depth on the tires is below 2 millimeters. (Когда глубина протектора шин менее 2 миллиметров.)
+
+278
+19:25,910 --> 19:28,530
+Question 57: What is the most common cause of heavy steering? (Какова наиболее частая причина тугого рулевого управления?)
+
+279
+19:29,310 --> 19:31,210
+Under inflated tires. (Correct) (Недокачанные шины.)
+
+280
+19:32,230 --> 19:34,090
+Badly worn brakes. (Сильно изношенные тормоза.)
+
+281
+19:35,010 --> 19:36,920
+Over inflated tires. (Перекачанные шины.)
+
+282
+19:37,640 --> 19:39,760
+Poorly oiled steering. (Плохо смазанное рулевое управление.)
+
+283
+19:42,912 --> 19:51,962
+Question 58: A driver has stalled in the middle of an unguarded level crossing and cannot restart the engine. The warning bell is ringing. What should the driver do? (Водитель заглох посреди неохраняемого железнодорожного переезда и не может завести двигатель. Звенит предупредительный звонок. Что должен сделать водитель?)
+
+284
+19:52,772 --> 19:58,262
+Walk clear of the crossing and phone the signal operator so that trains can be stopped. (Correct) (Отойти от переезда и позвонить диспетчеру, чтобы поезда могли быть остановлены.)
+
+285
+19:58,952 --> 20:02,332
+Stay at the vehicle and warn the approaching train. (Оставаться у транспортного средства и предупреждать приближающийся поезд.)
+
+286
+20:03,322 --> 20:06,432
+Try to restart the engine in first gear. (Попытаться завести двигатель на первой передаче.)
+
+287
+20:07,172 --> 20:09,472
+Push the vehicle clear of the crossing. (Оттолкать транспортное средство с переезда.)
+
+288
+20:12,118 --> 20:16,928
+Question 59: What should a driver do if their vehicle breaks down on an automatic railway level crossing? (Что должен делать водитель, если его транспортное средство сломалось на автоматическом железнодорожном переезде?)
+
+289
+20:17,818 --> 20:22,818
+Get passengers clear of the crossing and phone the signal operator so that trains can be stopped. (Correct) (Вывести пассажиров с переезда и позвонить диспетчеру, чтобы поезда могли быть остановлены.)
+
+290
+20:23,898 --> 20:27,348
+Walk along the track to give warning to any approaching trains. (Идти по путям, чтобы предупредить приближающиеся поезда.)
+
+291
+20:28,098 --> 20:31,348
+Try to push the vehicle clear of the crossing as soon as possible. (Попытаться как можно скорее оттолкать транспортное средство с переезда.)
+
+292
+20:32,228 --> 20:34,558
+Turn on the warning bells at the crossing. (Включить предупредительные звонки на переезде.)
+
+293
+20:37,213 --> 20:42,523
+Question 60: What is the immediate effect of a head-on collision between two cars at speed? (Каков немедленный эффект лобового столкновения двух автомобилей на скорости?)
+
+294
+20:43,443 --> 20:47,783
+All persons in each vehicle are thrown violently forward. (Correct) (Все люди в каждом транспортном средстве резко бросаются вперед.)
+
+295
+20:48,883 --> 20:53,493
+All persons in each vehicle are thrown violently backwards only. (Все люди в каждом транспортном средстве резко отбрасываются только назад.)
+
+296
+20:54,613 --> 20:56,663
+Only front seatbelts will activate. (Сработают только передние ремни безопасности.)
+
+297
+21:00,266 --> 21:02,896
+Question 61: When should a driver use their hazard warning lights? (Когда водителю следует использовать аварийную сигнализацию?)
+
+298
+21:03,826 --> 21:05,626
+When the vehicle has broken down. (Correct) (Когда транспортное средство сломалось.)
+
+299
+21:06,436 --> 21:08,446
+When the brake lights are not working. (Когда не работают стоп-сигналы.)
+
+300
+21:09,426 --> 21:11,596
+When about to pull in and stop. (Когда собираетесь остановиться у обочины.)
+
+301
+21:12,166 --> 21:15,586
+When parking for a short time on a single yellow line. (При парковке на короткое время на одинарной желтой линии.)
+
+302
+21:18,228 --> 21:21,808
+Question 62: When should a driver use their vehicle's hazard warning lights? (Когда водителю следует использовать аварийную сигнализацию своего автомобиля?)
+
+303
+21:22,598 --> 21:24,968
+When causing an unavoidable obstruction. (Correct) (Когда создается неизбежное препятствие.)
+
+304
+21:25,978 --> 21:27,248
+When double parking. (При двойной парковке.)
+
+305
+21:27,998 --> 21:29,868
+When the brake lights are not working. (Когда не работают стоп-сигналы.)
+
+306
+21:30,958 --> 21:33,268
+When a following vehicle is too close. (Когда следующий сзади автомобиль находится слишком близко.)
+
+307
+21:35,510 --> 21:38,650
+Question 63: When should a driver use their vehicle's hazard warning lights? (Когда водителю следует использовать аварийную сигнализацию своего автомобиля?)
+
+308
+21:39,530 --> 21:42,260
+When broken down and causing an obstruction. (Correct) (Когда автомобиль сломался и создает препятствие.)
+
+309
+21:43,150 --> 21:45,550
+When reversing onto a narrow road. (При движении задним ходом на узкую дорогу.)
+
+310
+21:46,160 --> 21:47,990
+When moving slowly in traffic. (При медленном движении в потоке.)
+
+311
+21:48,930 --> 21:50,870
+When parked at a bend or corner. (При парковке на изгибе или углу.)
+
+312
+21:53,230 --> 21:56,910
+Question 64: When a wiper blade fails to clear the windscreen, what should the driver do? (Если щетка стеклоочистителя не очищает лобовое стекло, что должен сделать водитель?)
+
+313
+21:57,840 --> 22:00,560
+Have the wiper blades replaced as soon as possible. (Correct) (Как можно скорее заменить щетки стеклоочистителя.)
+
+314
+22:01,560 --> 22:04,560
+Apply a light film of oil to both of the wiper blades. (Нанести тонкий слой масла на обе щетки стеклоочистителя.)
+
+315
+22:05,470 --> 22:08,710
+Bend the wiper arm to apply more pressure on the windscreen. (Согнуть рычаг стеклоочистителя, чтобы увеличить давление на лобовое стекло.)
+
+316
+22:09,470 --> 22:13,010
+Switch the wiper control from high speed to low speed repeatedly. (Многократно переключать управление стеклоочистителем с высокой скорости на низкую.)
+
+317
+22:16,211 --> 22:19,671
+Question 65: If a vehicle breaks down on a motorway, what should a person do? (Если автомобиль сломался на автомагистрали, что должен делать человек?)
+
+318
+22:20,581 --> 22:25,321
+Use a roadside phone to contact Gardai and never try to carry out repairs yourself. (Correct) (Использовать придорожный телефон для связи с полицией (Гардой) и никогда не пытаться самостоятельно производить ремонт.)
+
+319
+22:26,051 --> 22:29,201
+Turn on the full beam headlights to alert other drivers. (Включить дальний свет фар, чтобы предупредить других водителей.)
+
+320
+22:30,221 --> 22:33,521
+Ask a passenger to stand on the road to warn other traffic. (Попросить пассажира встать на дорогу, чтобы предупредить других участников движения.)
+
+321
+22:34,441 --> 22:38,411
+Place a red warning triangle on the motorway to warn other drivers. (Выставить красный предупреждающий треугольник на автомагистрали, чтобы предупредить других водителей.)
+
+322
+22:44,530 --> 22:48,390
+Question 66: On a motorway, when should a driver use the hazard warning lights? (Когда на автомагистрали водителю следует использовать аварийную сигнализацию?)
+
+323
+22:49,700 --> 22:51,550
+When the vehicle has broken down. (Correct) (Когда транспортное средство сломалось.)
+
+324
+22:52,600 --> 22:54,340
+When towing another vehicle. (При буксировке другого транспортного средства.)
+
+325
+22:55,270 --> 22:58,070
+When another vehicle is following too closely. (Когда другой автомобиль едет слишком близко.)
+
+326
+22:58,780 --> 23:02,150
+When parked in the hard shoulder to take a phone call. (При парковке на обочине, чтобы сделать телефонный звонок.)
+
+327
+23:04,186 --> 23:07,456
+Question 67: If a vehicle breaks down on a motorway, what should a person do? (Если автомобиль сломался на автомагистрали, что должен делать человек?)
+
+328
+23:08,576 --> 23:10,616
+Move the vehicle to the hard shoulder. (Correct) (Переместить автомобиль на обочину.)
+
+329
+23:11,546 --> 23:14,356
+Place a red warning triangle to the left of the vehicle. (Установить красный предупреждающий треугольник слева от автомобиля.)
+
+330
+23:15,316 --> 23:18,596
+Ask a passenger to stand on the motorway to warn other traffic. (Попросить пассажира встать на автомагистрали, чтобы предупредить других участников движения.)
+
+331
+23:19,256 --> 23:21,506
+Turn on the full beam headlights. (Включить дальний свет фар.)
+
+332
+23:24,424 --> 23:28,344
+Question 68: If a vehicle breaks down on a motorway, what should a person do? (Если автомобиль сломался на автомагистрали, что должен делать человек?)
+
+333
+23:29,974 --> 23:31,904
+Wear a high visibility vest. (Correct) (Надеть светоотражающий жилет.)
+
+334
+23:32,904 --> 23:34,884
+Turn on the full beam headlights. (Включить дальний свет фар.)
+
+335
+23:35,934 --> 23:39,404
+Place a red warning triangle to the left of the vehicle. (Установить красный предупреждающий треугольник слева от автомобиля.)
+
+336
+23:40,204 --> 23:44,494
+Ask a passenger to stand on the motorway to warn other traffic. (Попросить пассажира встать на автомагистрали, чтобы предупредить других участников движения.)
+
+337
+23:47,381 --> 23:54,801
+Question 69: A driver wishes to drive at night, but the offside, right hand side, headlight bulb is blown. What should the driver do? (Водитель хочет ехать ночью, но перегорела лампочка правой фары. Что должен сделать водитель?)
+
+338
+23:55,871 --> 23:58,691
+Not drive until the bulb is replaced. (Correct) (Не ехать, пока лампочка не будет заменена.)
+
+339
+23:59,601 --> 24:04,011
+Replace it temporarily with the near side, left hand side bulb. (Временно заменить ее лампочкой с левой стороны.)
+
+340
+24:04,911 --> 24:06,531
+Drive with the hazard lights on. (Ехать с включенной аварийной сигнализацией.)
+
+341
+24:07,241 --> 24:10,231
+Replace it temporarily with the brake light bulb. (Временно заменить ее лампочкой стоп-сигнала.)
+
+342
+24:13,446 --> 24:17,676
+Question 70: What should a driver do if the right-hand headlight bulb fails when driving at night? (Что должен сделать водитель, если правая лампочка фары перегорела во время движения ночью?)
+
+343
+24:18,366 --> 24:20,386
+Have the bulb replaced immediately. (Correct) (Немедленно заменить лампочку.)
+
+344
+24:21,256 --> 24:23,196
+Drive with the hazard lights on. (Ехать с включенной аварийной сигнализацией.)
+
+345
+24:23,976 --> 24:26,506
+Replace it temporarily with the brake light bulb. (Временно заменить ее лампочкой стоп-сигнала.)
+
+346
+24:27,246 --> 24:30,626
+Replace it temporarily with the left-hand headlight bulb. (Временно заменить ее левой лампочкой фары.)
+
+347
+24:33,485 --> 24:37,635
+Question 71: Generally, what lighting must a car, tractor or works vehicle have when driving? (В общем, какое освещение должно быть у автомобиля, трактора или рабочего транспортного средства во время движения?)
+
+348
+24:38,595 --> 24:48,975
+Headlights, front and rear side lights, rear number plate light, red rear reflectors, brake lights and indicators. (Correct) (Фары, передние и задние габаритные огни, фонарь освещения заднего номерного знака, красные задние светоотражатели, стоп-сигналы и указатели поворота.)
+
+349
+24:49,945 --> 24:53,925
+Headlights, number plate and rear reflectors only. (Только фары, номерной знак и задние светоотражатели.)
+
+350
+24:54,585 --> 24:56,605
+Headlights and a reversing light. (Фары и фонарь заднего хода.)
+
+351
+24:57,215 --> 25:00,755
+Headlights, brake lights and indicators only. (Только фары, стоп-сигналы и указатели поворота.)
+
+352
+25:04,188 --> 25:07,848
+Question 72: What effect do the hazard warning lights have on the brake lights? (Какое влияние оказывает аварийная сигнализация на стоп-сигналы?)
+
+353
+25:08,828 --> 25:10,258
+They have no effect. (Correct) (Никакого влияния.)
+
+354
+25:11,188 --> 25:13,858
+They cause the brake lights to flash repeatedly. (Они заставляют стоп-сигналы многократно мигать.)
+
+355
+25:14,868 --> 25:18,918
+They cause the left and right brake lights to flash alternately. (Они заставляют левый и правый стоп-сигналы мигать попеременно.)
+
+356
+25:19,948 --> 25:22,868
+They cause the brake lights to switch off completely. (Они полностью отключают стоп-сигналы.)
+
+357
+25:24,460 --> 25:27,620
+Question 73: What lighting must be on a two axle car trailer? (Какое освещение должно быть на двухосном автомобильном прицепе?)
+
+358
+25:28,590 --> 25:34,510
+Indicators, brake lights, rear number plate light, red reflectors and rear tail lights. (Correct) (Указатели поворота, стоп-сигналы, фонарь освещения заднего номерного знака, красные светоотражатели и задние габаритные огни.)
+
+359
+25:35,460 --> 25:37,280
+Flashing rear tail lights. (Мигающие задние габаритные огни.)
+
+360
+25:38,060 --> 25:40,990
+Indicators and rear number plate lights only. (Только указатели поворота и фонари освещения заднего номерного знака.)
+
+361
+25:41,830 --> 25:44,060
+Brake lights and indicators only. (Только стоп-сигналы и указатели поворота.)
+
+362
+25:47,159 --> 25:51,579
+Question 74: What lighting must be on a tractor's trailer during lighting up hours? (Какое освещение должно быть на прицепе трактора в темное время суток?)
+
+363
+25:52,149 --> 25:58,409
+Indicators, brake lights, rear number plate light, red reflectors and rear tail lights. (Correct) (Указатели поворота, стоп-сигналы, фонарь освещения заднего номерного знака, красные светоотражатели и задние габаритные огни.)
+
+364
+25:59,689 --> 26:01,099
+An unloading light. (Фонарь разгрузки.)
+
+365
+26:02,109 --> 26:07,769
+Indicators, two white or yellow headlamps and rear number plate lights only. (Только указатели поворота, две белые или желтые фары и фонари освещения заднего номерного знака.)
+
+366
+26:08,829 --> 26:11,049
+Brake lights and indicators only. (Только стоп-сигналы и указатели поворота.)
+
+367
+26:13,243 --> 26:19,413
+Question 75: What danger could be associated with driving a tractor and trailer over a humpbacked bridge? (Какая опасность может быть связана с проездом трактора с прицепом через горбатый мост?)
+
+368
+26:20,333 --> 26:22,123
+The trailer could become detached. (Correct) (Прицеп может отцепиться.)
+
+369
+26:23,103 --> 26:24,533
+The trailer could jackknife. (Прицеп может "сложиться".)
+
+370
+26:25,323 --> 26:28,243
+The tractor's suspension could smooth out the bump. (Подвеска трактора может сгладить неровность.)
+
+371
+26:29,033 --> 26:32,233
+The trailer's parking brake could automatically engage. (Стояночный тормоз прицепа может автоматически включиться.)
+
+372
+26:34,204 --> 26:38,594
+Question 76: What should a driver do when requested to drive a vehicle that they feel is overloaded? (Что должен сделать водитель, когда его просят управлять транспортным средством, которое, по его мнению, перегружено?)
+
+373
+26:39,374 --> 26:41,204
+Refuse to drive the vehicle. (Correct) (Отказаться управлять транспортным средством.)
+
+374
+26:42,004 --> 26:44,054
+Drive at a slower speed than normal. (Ехать с меньшей скоростью, чем обычно.)
+
+375
+26:44,794 --> 26:47,154
+Drive the vehicle only if accompanied. (Управлять транспортным средством только в сопровождении.)
+
+376
+26:47,954 --> 26:50,494
+Ensure that the load is properly restrained. (Убедиться, что груз надежно закреплен.)
+
+377
+26:53,520 --> 26:56,660
+Question 77: How could towing an overloaded trailer affect a vehicle? (Как буксировка перегруженного прицепа может повлиять на транспортное средство?)
+
+378
+26:57,510 --> 27:00,670
+It could impair the vehicle's steering and braking. (Correct) (Это может ухудшить рулевое управление и торможение автомобиля.)
+
+379
+27:01,380 --> 27:03,720
+It could improve the vehicle's fuel consumption. (Это может улучшить расход топлива автомобиля.)
+
+380
+27:05,210 --> 27:07,480
+It could improve road holding on bends. (Это может улучшить сцепление с дорогой на поворотах.)
+
+381
+27:08,240 --> 27:11,540
+It could improve braking ability when going downhill. (Это может улучшить тормозные характеристики при спуске с горы.)
+
+382
+27:15,310 --> 27:18,290
+Question 78: What does the load index of a tire indicate? (Что означает индекс нагрузки шины?)
+
+383
+27:19,250 --> 27:21,790
+The maximum load a tire can carry. (Correct) (Максимальную нагрузку, которую может выдержать шина.)
+
+384
+27:22,350 --> 27:24,200
+The maximum load of the vehicle. (Максимальную нагрузку транспортного средства.)
+
+385
+27:25,020 --> 27:26,710
+The maximum load per axle. (Максимальную нагрузку на ось.)
+
+386
+27:27,510 --> 27:29,850
+The maximum air pressure of the tire. (Максимальное давление воздуха в шине.)
+
+387
+27:32,607 --> 27:35,777
+Question 79: What should a driver do before towing a caravan? (Что должен сделать водитель перед буксировкой автодома?)
+
+388
+27:36,547 --> 27:39,717
+Have extended mirrors fitted to the towing vehicle. (Correct) (Установить удлиненные зеркала на буксирующее транспортное средство.)
+
+389
+27:40,797 --> 27:44,487
+Ensure all passengers are securely seated in the caravan. (Убедиться, что все пассажиры надежно сидят в автодоме.)
+
+390
+27:45,367 --> 27:49,607
+Have an extended mirror fitted to the driver side of the vehicle only. (Установить удлиненное зеркало только со стороны водителя.)
+
+391
+27:50,337 --> 27:54,497
+Ensure that only adult passengers are seated in the caravan. (Убедиться, что в автодоме сидят только взрослые пассажиры.)
+
+392
+27:57,211 --> 28:01,691
+Question 80: What should a driver do if condensation is affecting the vehicle's windows? (Что делать водителю, если на стеклах автомобиля образуется конденсат?)
+
+393
+28:02,521 --> 28:06,491
+Dry the windows with a cloth and then use the demister system. (Correct) (Вытереть окна тряпкой, а затем использовать систему обдува.)
+
+394
+28:07,261 --> 28:10,391
+Drive for a few kilometers with a window open. (Проехать несколько километров с открытым окном.)
+
+395
+28:11,041 --> 28:13,441
+Wipe the windows with the back of the hand. (Протереть окна тыльной стороной ладони.)
+
+396
+28:14,201 --> 28:17,861
+Make sure that all demister vents and windows are closed. (Убедиться, что все вентиляционные отверстия и окна закрыты.)
+
+397
+28:20,772 --> 28:24,802
+Question 81: How can sunlight affect visibility in a car with dirty windows? (Как солнечный свет может повлиять на видимость в автомобиле с грязными стеклами?)
+
+398
+28:25,922 --> 28:28,402
+It can seriously reduce visibility. (Correct) (Это может серьезно снизить видимость.)
+
+399
+28:29,482 --> 28:31,232
+It can enhance visibility. (Это может улучшить видимость.)
+
+400
+28:32,152 --> 28:35,262
+It can cause objects to seem closer than they are. (Это может привести к тому, что объекты будут казаться ближе, чем они есть на самом деле.)
+
+401
+28:36,132 --> 28:40,542
+It can cause objects to seem further away than they are. (Это может привести к тому, что объекты будут казаться дальше, чем они есть на самом деле.)
+
+402
+28:42,393 --> 28:47,153
+Question 82: When changing a wheel on a public road, what should a person do to ensure their own safety? (При замене колеса на дороге общего пользования, что должен делать человек для обеспечения собственной безопасности?)
+
+403
+28:48,013 --> 28:51,573
+Wear reflective clothing and switch on the vehicle hazard warning lights. (Correct) (Надеть светоотражающую одежду и включить аварийную сигнализацию автомобиля.)
+
+404
+28:52,503 --> 28:56,663
+Ask a bystander to warn traffic by beckoning them from the middle of the road. (Попросить прохожего предупредить движение, махая им рукой с середины дороги.)
+
+405
+28:57,593 --> 29:02,123
+Ensure the vehicle is in reverse gear and front wheels are facing the roadway. (Убедиться, что автомобиль находится на задней передаче, а передние колеса направлены на проезжую часть.)
+
+406
+29:02,743 --> 29:06,623
+Ensure the vehicle is in first gear and the wheels are facing the roadway. (Убедиться, что автомобиль находится на первой передаче, а колеса направлены на проезжую часть.)
+
+407
+29:09,812 --> 29:16,162
+Question 83: What should a driver do to reduce the risk of the neck injury in the event of a rear end collision? (Что должен сделать водитель, чтобы снизить риск травмы шеи в случае столкновения сзади?)
+
+408
+29:17,042 --> 29:19,672
+Use a properly adjusted head restraint. (Correct) (Использовать правильно отрегулированный подголовник.)
+
+409
+29:20,532 --> 29:22,812
+Ensure the vehicle has anti-lock brakes. (Убедиться, что автомобиль оснащен антиблокировочной системой тормозов.)
+
+410
+29:23,692 --> 29:25,972
+Ensure the vehicle has a rear spoiler. (Убедиться, что у автомобиля есть задний спойлер.)
+
+411
+29:26,902 --> 29:29,292
+Use a properly adjusted seat belt. (Использовать правильно отрегулированный ремень безопасности.)
+
+412
+29:32,233 --> 29:37,223
+Question 84: Where safety belts are fitted to a car, when must adult occupants wear them? (Если в автомобиле установлены ремни безопасности, когда взрослые пассажиры должны их пристегивать?)
+
+413
+29:38,103 --> 29:39,333
+At all times. (Correct) (Всегда.)
+
+414
+29:40,253 --> 29:42,393
+When traveling on long journeys. (Во время длительных поездок.)
+
+415
+29:43,443 --> 29:46,423
+Only when instructed to do so by the driver. (Только по указанию водителя.)
+
+416
+29:49,307 --> 29:57,517
+Question 85: Who is responsible for ensuring that a passenger over 17 years of age is wearing a seat belt while travelling in a car? (Кто несет ответственность за то, чтобы пассажир старше 17 лет был пристегнут ремнем безопасности во время поездки в автомобиле?)
+
+417
+29:58,237 --> 29:59,857
+The passenger only. (Correct) (Только пассажир.)
+
+418
+30:00,807 --> 30:02,077
+The driver only. (Только водитель.)
+
+419
+30:02,967 --> 30:04,787
+Both the driver and the passenger. (И водитель, и пассажир.)
+
+420
+30:05,717 --> 30:08,827
+The driver when the passenger is in the front seat. (Водитель, когда пассажир находится на переднем сиденье.)
+
+421
+30:12,143 --> 30:20,383
+Question 86: Who is responsible for ensuring that a passenger under 17 years of age is wearing a seat belt while travelling in a car? (Кто несет ответственность за то, чтобы пассажир младше 17 лет был пристегнут ремнем безопасности во время поездки в автомобиле?)
+
+422
+30:21,303 --> 30:22,593
+The driver only. (Correct) (Только водитель.)
+
+423
+30:23,383 --> 30:24,663
+The passenger only. (Только пассажир.)
+
+424
+30:25,693 --> 30:27,333
+The passenger's parents. (Родители пассажира.)
+
+425
+30:28,153 --> 30:32,123
+The driver, but only when the passenger is in the front seat. (Водитель, но только когда пассажир находится на переднем сиденье.)
+
+426
+30:35,334 --> 30:41,274
+Question 87: Who is responsible for ensuring that a child wears a child restraint system in a vehicle? (Кто несет ответственность за то, чтобы ребенок использовал детское удерживающее устройство в транспортном средстве?)
+
+427
+30:42,124 --> 30:43,404
+The driver only. (Correct) (Только водитель.)
+
+428
+30:44,214 --> 30:46,744
+The child, if over 12 years of age. (Ребенок, если ему больше 12 лет.)
+
+429
+30:47,944 --> 30:49,424
+Any adult passenger. (Любой взрослый пассажир.)
+
+430
+30:50,154 --> 30:52,294
+The parents of the child only. (Только родители ребенка.)
+
+431
+30:54,774 --> 30:59,344
+Question 88: In general, how should children under three years of age be secured in a vehicle? (В общем, как должны быть закреплены дети до трех лет в транспортном средстве?)
+
+432
+31:00,104 --> 31:02,514
+They should always be secured in the correct child seat. (Correct) (Они всегда должны быть закреплены в соответствующем детском кресле.)
+
+433
+31:03,424 --> 31:05,744
+They should always be carried in an adult's lap. (Их всегда следует перевозить на коленях у взрослого.)
+
+434
+31:06,664 --> 31:09,344
+They should always sit on the rear passenger seat. (Они всегда должны сидеть на заднем пассажирском сиденье.)
+
+435
+31:10,224 --> 31:13,674
+They should always be placed in the front passenger seat wearing a seatbelt. (Их всегда следует размещать на переднем пассажирском сиденье, пристегнув ремнем безопасности.)
+
+436
+31:16,211 --> 31:22,121
+Question 89: Can a child under the age of three years be carried unrestrained in the vehicle's front passenger seat? (Можно ли перевозить ребенка до трех лет без удерживающего устройства на переднем пассажирском сиденье автомобиля?)
+
+437
+31:22,961 --> 31:26,581
+No, an infant must always be restrained in the correct child seat. (Correct) (Нет, младенец всегда должен быть закреплен в соответствующем детском кресле.)
+
+438
+31:27,421 --> 31:30,731
+No, unless the child is using a child booster seat. (Нет, если только ребенок не использует детский бустер.)
+
+439
+31:31,641 --> 31:35,121
+Yes, provided the infant is held securely by an adult. (Да, при условии, что младенца надежно держит взрослый.)
+
+440
+31:35,931 --> 31:39,491
+Yes, but only if the vehicle is fitted with active airbags. (Да, но только если автомобиль оборудован активными подушками безопасности.)
+
+441
+31:40,782 --> 31:45,172
+Question 90: Why should a driver adjust their head restraint before starting a journey? (Почему водителю следует регулировать подголовник перед началом поездки?)
+
+442
+31:46,082 --> 31:49,542
+To provide support to the neck in the event of a collision. (Correct) (Для обеспечения поддержки шеи в случае столкновения.)
+
+443
+31:50,492 --> 31:54,162
+To improve rear passengers view of the road ahead. (Для улучшения обзора дороги впереди для задних пассажиров.)
+
+444
+31:54,982 --> 31:58,222
+To prevent glare from the headlights of following vehicles. (Для предотвращения ослепления фарами следующих сзади автомобилей.)
+
+445
+32:00,539 --> 32:06,829
+Question 91: What should the driver do to secure the vehicle when changing a front nearside, left-hand side, wheel? (Что должен сделать водитель, чтобы зафиксировать автомобиль при замене переднего левого колеса?)
+
+446
+32:07,769 --> 32:10,819
+Ensure that the vehicle cannot roll when jacked up. (Correct) (Убедиться, что автомобиль не сможет покатиться, когда он поднят на домкрате.)
+
+447
+32:11,739 --> 32:13,919
+Point the front wheels towards the curb. (Направить передние колеса к бордюру.)
+
+448
+32:14,949 --> 32:17,219
+Ensure the gear lever is in neutral. (Убедиться, что рычаг переключения передач находится в нейтральном положении.)
+
+449
+32:18,209 --> 32:20,539
+Point the front wheels away from the curb. (Направить передние колеса от бордюра.)
+
+450
+32:23,732 --> 32:27,512
+Question 92: Which of the following is a driver required to keep in good condition? (Что из перечисленного водитель обязан поддерживать в хорошем состоянии?)
+
+451
+32:28,682 --> 32:29,822
+Seat belts. (Correct) (Ремни безопасности.)
+
+452
+32:31,042 --> 32:32,232
+Upholstery. (Обивка.)
+
+453
+32:32,942 --> 32:33,752
+Radio. (Радио.)
+
+454
+32:34,512 --> 32:35,632
+Paint work. (Лакокрасочное покрытие.)
+
+455
+32:38,200 --> 32:41,920
+Question 93: What danger can arise from the power take-off shaft of a tractor? (Какую опасность может представлять вал отбора мощности трактора?)
+
+456
+32:42,910 --> 32:45,710
+If it is not covered, clothing can get caught in it. (Correct) (Если он не закрыт, в него может попасть одежда.)
+
+457
+32:46,450 --> 32:49,430
+If it is not disengaged, the battery will run flat. (Если он не отключен, аккумулятор разрядится.)
+
+458
+32:50,140 --> 32:52,650
+If it is not disengaged, the steering will lock. (Если он не отключен, рулевое управление заблокируется.)
+
+459
+32:53,620 --> 32:56,860
+If it is not covered, the tractor will speed up rapidly. (Если он не закрыт, трактор быстро наберет скорость.)
+
+460
+33:00,105 --> 33:03,665
+Question 94: When attaching a trailer to their vehicle, what must a driver check? (При присоединении прицепа к своему автомобилю, что должен проверить водитель?)
+
+461
+33:04,745 --> 33:06,855
+That the load is evenly spread. (Correct) (Что груз распределен равномерно.)
+
+462
+33:07,595 --> 33:10,365
+That the load is positioned to the front of the trailer. (Что груз расположен в передней части прицепа.)
+
+463
+33:11,215 --> 33:14,035
+That the load is positioned to the rear of the trailer. (Что груз расположен в задней части прицепа.)
+
+464
+33:14,925 --> 33:17,045
+That the trailer has a spare wheel. (Что у прицепа есть запасное колесо.)
+
+465
+33:20,183 --> 33:23,793
+Question 95: When attaching a trailer to their vehicle, what must a driver check? (При присоединении прицепа к своему автомобилю, что должен проверить водитель?)
+
+466
+33:24,913 --> 33:27,513
+That the trailer coupling is attached securely. (Correct) (Что сцепное устройство прицепа надежно закреплено.)
+
+467
+33:28,403 --> 33:30,643
+That the trailer springs are well greased. (Что рессоры прицепа хорошо смазаны.)
+
+468
+33:31,483 --> 33:33,353
+That the trailer has a spare wheel. (Что у прицепа есть запасное колесо.)
+
+469
+33:34,133 --> 33:36,733
+That the load is positioned to the front of the trailer. (Что груз расположен в передней части прицепа.)
+
+470
+33:39,472 --> 33:43,922
+Question 96: What should a driver do to secure the towing vehicle before unhitching a trailer? (Что должен сделать водитель, чтобы зафиксировать буксирующее транспортное средство перед отсоединением прицепа?)
+
+471
+33:44,912 --> 33:48,792
+Apply the handbrake, switch off the ignition and engage a low gear. (Correct) (Задействовать ручной тормоз, выключить зажигание и включить низкую передачу.)
+
+472
+33:49,602 --> 33:53,812
+Disconnect the electrical supply to the trailer lights and lower the jockey wheel. (Отключить электропитание фонарей прицепа и опустить опорное колесо.)
+
+473
+33:54,582 --> 33:58,452
+Apply the handbrake, lower the jockey wheel and switch off the engine. (Задействовать ручной тормоз, опустить опорное колесо и выключить двигатель.)
+
+474
+33:59,082 --> 34:02,362
+Lower the jockey wheel and then switch off the ignition. (Опустить опорное колесо, а затем выключить зажигание.)
+
+475
+34:05,251 --> 34:08,791
+Question 97: What is the minimum legal tread depth for tires on cars? (Какова минимальная допустимая глубина протектора шин для легковых автомобилей?)
+
+476
+34:09,921 --> 34:11,541
+1.6 millimeters. (Correct) (1,6 миллиметра.)
+
+477
+34:12,501 --> 34:14,281
+0.6 millimeters. (0,6 миллиметра.)
+
+478
+34:15,311 --> 34:16,581
+1 millimeter. (1 миллиметр.)
+
+479
+34:17,311 --> 34:18,911
+2.6 millimeters. (2,6 миллиметра.)
+
+480
+34:21,465 --> 34:24,545
+Question 98: A driver notices that the wiper blades are worn. What should they do? (Водитель замечает, что щетки стеклоочистителя изношены. Что ему следует делать?)
+
+481
+34:26,595 --> 34:28,955
+Have the blades replaced as soon as possible. (Correct) (Как можно скорее заменить щетки.)
+
+482
+34:29,915 --> 34:31,915
+Wipe the windscreen with newspaper. (Протереть лобовое стекло газетой.)
+
+483
+34:32,835 --> 34:35,715
+Use the windscreen washer system while it is raining. (Использовать систему омывателя лобового стекла во время дождя.)
+
+484
+34:36,255 --> 34:38,485
+Roll down the window and drive slowly. (Опустить стекло и ехать медленно.)
+
+485
+34:41,196 --> 34:44,066
+Question 99: How should a child restraint system be fitted in a vehicle? (Как должно быть установлено детское удерживающее устройство в транспортном средстве?)
+
+486
+34:44,916 --> 34:48,346
+It should be fitted in accordance with the manufacturer's instructions. (Correct) (Оно должно быть установлено в соответствии с инструкциями производителя.)
+
+487
+34:49,166 --> 34:51,756
+It should be placed on a front passenger seat only. (Оно должно быть размещено только на переднем пассажирском сиденье.)
+
+488
+34:52,656 --> 34:54,126
+It should be left unsecured. (Оно должно быть оставлено незакрепленным.)
+
+489
+34:55,046 --> 34:56,666
+It should be placed on the floor. (Оно должно быть размещено на полу.)
