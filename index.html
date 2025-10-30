@@ -635,18 +635,44 @@
                 formatted = formatted.replace('(Correct)', '<span class="correct-badge">(Correct)</span>');
             }
             
-            formatted = formatted.replace(/\(([^)]+)\)/g, (match, content) => {
-                if (content === 'Correct') {
-                    return match;
-                }
-                const isCyrillic = /[\u0400-\u04FF]/.test(content);
-                if (isCyrillic) {
-                    return `<span class="russian-text">${content}</span>`;
-                }
-                return match;
-            });
+            // Handle nested parentheses by finding matching pairs
+            let result = '';
+            let i = 0;
             
-            return formatted;
+            while (i < formatted.length) {
+                if (formatted[i] === '(') {
+                    let depth = 1;
+                    let start = i;
+                    i++;
+                    
+                    while (i < formatted.length && depth > 0) {
+                        if (formatted[i] === '(') depth++;
+                        if (formatted[i] === ')') depth--;
+                        i++;
+                    }
+                    
+                    const content = formatted.substring(start + 1, i - 1);
+                    
+                    // Skip if it's already wrapped (Correct badge)
+                    if (content.includes('class="correct-badge"')) {
+                        result += formatted.substring(start, i);
+                        continue;
+                    }
+                    
+                    // Check if content has Cyrillic characters
+                    const isCyrillic = /[\u0400-\u04FF]/.test(content);
+                    if (isCyrillic) {
+                        result += `<span class="russian-text">${content}</span>`;
+                    } else {
+                        result += formatted.substring(start, i);
+                    }
+                } else {
+                    result += formatted[i];
+                    i++;
+                }
+            }
+            
+            return result;
         }
 
         function updateSubtitle() {
