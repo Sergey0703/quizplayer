@@ -372,6 +372,7 @@
         let pauseAtQuestionEnd = true;
         let currentQuestionEndTime = null;
         let shouldPauseAfterQuestion = false;
+        let isFirstAnswer = false;
 
         const videoPlayer = document.getElementById('videoPlayer');
         const videoPlaceholder = document.getElementById('videoPlaceholder');
@@ -618,6 +619,9 @@
                 
                 btn.addEventListener('click', () => {
                     videoPlayer.currentTime = question.startTime;
+                    // Reset last processed subtitle to force reprocessing
+                    lastProcessedSubtitle = null;
+                    currentQuestionBlockText = '';
                     if (videoPlayer.paused) {
                         videoPlayer.play();
                     }
@@ -688,7 +692,14 @@
                 const isCorrect = currentSubtitle.text.includes('(Correct)');
 
                 if (currentSubtitle.text.trim().startsWith('Question')) {
+                    // New question detected - reset everything
                     currentQuestionBlockText = `<span class="question-line">${formattedText}</span>`;
+                    isFirstAnswer = true;
+                    
+                    // Immediately clear display when new question starts
+                    subtitleDisplay.innerHTML = currentQuestionBlockText;
+                    subtitleDisplay.classList.remove('subtitle-placeholder');
+                    applyTranslationVisibility();
                     
                     const question = questions.find(q => q.startTime === currentSubtitle.start);
                     if (question) {
@@ -708,8 +719,9 @@
                     }
                     currentQuestionEndTime = currentSubtitle.end;
                 } else {
-                    if (isCorrect) {
+                    if (isFirstAnswer) {
                         currentQuestionBlockText += `<div class="correct-answer"><span class="answer-line">${formattedText}</span></div>`;
+                        isFirstAnswer = false;
                     } else {
                         currentQuestionBlockText += `<span class="answer-line">${formattedText}</span>`;
                     }
