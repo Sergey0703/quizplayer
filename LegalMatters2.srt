@@ -1,0 +1,2119 @@
+1
+00:03,425 --> 00:04,915
+Question 121: What does this traffic light mean? (Вопрос 121: Что означает этот светофор?)
+
+2
+00:05,485 --> 00:07,175
+Stop, unless it is unsafe to do so. (Остановитесь, если это небезопасно.)
+
+3
+00:07,595 --> 00:09,085
+The traffic lights are out of order. (Светофоры не работают.)
+
+4
+00:09,725 --> 00:10,875
+Prepare to move off. (Приготовьтесь к движению.)
+
+5
+00:11,465 --> 00:12,945
+Proceed if the way is clear. (Продолжайте движение, если путь свободен.)
+
+6
+00:15,622 --> 00:17,212
+Question 122: What does this traffic light mean? (Вопрос 122: Что означает этот светофор?)
+
+7
+00:18,502 --> 00:23,192
+The driver may proceed in the direction of the green arrow if the way is clear. (Водитель может продолжить движение в направлении зеленой стрелки, если путь свободен.)
+
+8
+00:24,202 --> 00:28,492
+The driver must stop and wait until the full green light appears. (Водитель должен остановиться и ждать, пока не загорится зеленый свет.)
+
+9
+00:29,562 --> 00:31,772
+The driver must divert to the right. (Водитель должен свернуть направо.)
+
+10
+00:35,420 --> 00:36,750
+Question 123: What does this traffic light mean? (Вопрос 123: Что означает этот светофор?)
+
+11
+00:37,630 --> 00:40,780
+Traffic turning left may proceed if the way is clear. (Транспорт, поворачивающий налево, может продолжить движение, если путь свободен.)
+
+12
+00:41,830 --> 00:44,050
+All traffic must turn left only. (Весь транспорт должен поворачивать только налево.)
+
+13
+00:45,130 --> 00:47,150
+Traffic is not allowed to turn left. (Движение налево запрещено.)
+
+14
+00:48,320 --> 00:52,990
+Traffic turning left should prepare for full green to move off. (Движение налево должно быть готово к полному зеленому сигналу светофора.)
+
+15
+00:55,758 --> 00:57,418
+Question 124: What does this traffic light mean? (Вопрос 124: Что означает этот светофор?)
+
+16
+00:58,668 --> 01:00,818
+Traffic must stop at the traffic light. (Транспорт должен остановиться на светофоре.)
+
+17
+01:01,968 --> 01:04,268
+Traffic may stop if safe to do so. (Движение может остановиться, если это безопасно.)
+
+18
+01:05,238 --> 01:08,238
+Traffic must proceed if safe to do so. (Транспорт должен двигаться, если это безопасно.)
+
+19
+01:11,707 --> 01:13,017
+Question 125: What does this traffic light mean? (Вопрос 125: Что означает этот светофор?)
+
+20
+01:13,677 --> 01:15,797
+Traffic may proceed if the way is clear. (Транспорт может проехать, если путь свободен.)
+
+21
+01:16,367 --> 01:18,347
+Traffic must stop at the traffic light. (Движение должно остановиться на светофоре.)
+
+22
+01:18,877 --> 01:21,557
+Give way to any oncoming traffic turning right. (Уступите дорогу любому встречному транспорту, поворачивающему направо.)
+
+23
+01:22,347 --> 01:24,807
+Traffic may proceed but not turn right. (Движение может продолжаться, но не поворачивать направо.)
+
+24
+01:27,185 --> 01:29,665
+Question 126: What colour traffic light comes on after the green? (Вопрос 126: Какой цвет светофора загорается после зеленого?)
+
+25
+01:30,475 --> 01:31,215
+Amber only. (Только желтый.)
+
+26
+01:31,595 --> 01:32,415
+Red only. (Только красный.)
+
+27
+01:32,835 --> 01:34,065
+Flashing amber. (Мигающий желтый.)
+
+28
+01:34,655 --> 01:35,635
+Green arrow. (Зеленая стрелка.)
+
+29
+01:37,707 --> 01:41,947
+Question 127: When traffic lights are green, when should a driver not proceed? (Вопрос 127: Когда светофор горит зеленым, когда водитель не должен двигаться?)
+
+30
+01:43,157 --> 01:45,217
+When it would be unsafe to do so. (Когда это было бы небезопасно.)
+
+31
+01:46,087 --> 01:50,117
+When traffic is stopped waiting to turn from the road on the right. (Когда движение остановлено, ожидая поворота с дороги справа.)
+
+32
+01:50,787 --> 01:54,897
+When traffic is stopped waiting to turn from the road on the left. (Когда движение остановлено, ожидая поворота с дороги слева.)
+
+33
+01:55,877 --> 01:59,107
+When oncoming traffic is waiting to turn left. (Когда встречный транспорт ожидает поворота налево.)
+
+34
+02:01,779 --> 02:06,209
+Question 128: What does a flashing amber arrow pointing left at a traffic light mean? (Вопрос 128: Что означает мигающая желтая стрелка, указывающая налево на светофоре?)
+
+35
+02:07,179 --> 02:11,549
+A driver may turn left but must yield to traffic on the other road. (Водитель может повернуть налево, но должен уступить дорогу транспорту на другой дороге.)
+
+36
+02:12,419 --> 02:15,979
+A driver may proceed before traffic on the other road. (Водитель может проехать перед транспортом на другой дороге.)
+
+37
+02:16,689 --> 02:19,959
+The driver must wait until the traffic lights turn green. (Водитель должен подождать, пока светофор не загорится зеленым.)
+
+38
+02:20,789 --> 02:23,949
+A driver must not proceed in this direction. (Водитель не должен двигаться в этом направлении.)
+
+39
+02:27,517 --> 02:31,217
+Question 129: What colour traffic light comes on after a non-flashing amber light? (Вопрос 129: Какой цвет светофора загорается после немигающего желтого света?)
+
+40
+02:32,237 --> 02:33,027
+Red only. (Только красный.)
+
+41
+02:33,487 --> 02:34,267
+Green only. (Только зеленый.)
+
+42
+02:34,667 --> 02:36,137
+Flashing red light. (Мигающий красный свет.)
+
+43
+02:36,547 --> 02:37,997
+Flashing amber light. (Мигающий желтый свет.)
+
+44
+02:40,490 --> 02:43,260
+Question 130: What do flashing amber lights at a pelican crossing mean? (Вопрос 130: Что означают мигающие желтые огни на пешеходном переходе?)
+
+45
+02:44,000 --> 02:48,010
+Stop and give way to pedestrians - proceed if the way is clear. (Остановитесь и уступите дорогу пешеходам, если путь свободен.)
+
+46
+02:48,630 --> 02:52,990
+Danger ahead. A driver must stop and wait until the light stops flashing. (Опасность впереди. Водитель должен остановиться и подождать, пока свет не перестанет мигать.)
+
+47
+02:53,680 --> 02:56,660
+A driver is entering a special speed limit area. (Водитель въезжает в зону с особым ограничением скорости.)
+
+48
+02:57,260 --> 02:58,820
+Drivers have right of way. (Водители имеют преимущественное право проезда.)
+
+49
+03:01,578 --> 03:06,288
+Question 131: What road users must comply with traffic lights (including pedestrian lights)? (Вопрос 131: Какие участники дорожного движения должны соблюдать сигналы светофора (включая пешеходные)?)
+
+50
+03:07,598 --> 03:08,898
+All road users. (Все участники дорожного движения.)
+
+51
+03:09,928 --> 03:11,928
+Drivers and cyclists only. (Только водители и велосипедисты.)
+
+52
+03:13,118 --> 03:15,318
+Drivers and pedestrians only (Только водители и пешеходы)
+
+53
+03:18,487 --> 03:21,177
+Question 132: What is the purpose of traffic calming measures? (Вопрос 132: Какова цель мер по успокоению дорожного движения?)
+
+54
+03:22,467 --> 03:24,537
+To slow down traffic in the vicinity. (Снижение скорости движения в окрестностях.)
+
+55
+03:25,627 --> 03:27,617
+To prioritise heavy goods traffic. (Приоритет тяжеловесного транспорта.)
+
+56
+03:28,707 --> 03:31,107
+To alert drivers to road flooding ahead. (Оповещение водителей о затоплении дороги впереди.)
+
+57
+03:32,157 --> 03:35,467
+To inform the driver of an increased speed limit ahead. (Информирование водителя о повышенном ограничении скорости.)
+
+58
+03:38,225 --> 03:43,275
+Question 133: Who can use a signed cycle track accompanied by a continuous white line on the left-hand side? (Вопрос 133: Кто может использовать обозначенную велосипедную дорожку, сопровождаемую сплошной белой линией с левой стороны?)
+
+59
+03:44,305 --> 03:46,925
+Cyclists and users of motorised wheelchairs. (Велосипедисты и пользователи моторизованных инвалидных колясок.)
+
+60
+03:47,565 --> 03:50,125
+Drivers when overtaking a vehicle turning right. (Водители при обгоне транспортного средства, поворачивающего направо.)
+
+61
+03:50,835 --> 03:52,535
+Cyclists and motorcyclists. (Велосипедисты и мотоциклисты.)
+
+62
+03:53,305 --> 03:56,315
+Drivers, when it is not being used by a cyclist. (Водители, когда она не используется велосипедистом.)
+
+63
+03:59,627 --> 04:03,137
+Question 134: What traffic may use a cycle lane accompanied by a continuous white line? (Вопрос 134: Какой транспорт может использовать велосипедную дорожку, сопровождаемую сплошной белой линией?)
+
+64
+04:04,117 --> 04:06,667
+Cyclists and motorised wheelchairs. (Велосипедисты и моторизованные инвалидные коляски.)
+
+65
+04:07,677 --> 04:09,307
+Cyclists and taxis. (Велосипедисты и такси.)
+
+66
+04:10,217 --> 04:11,827
+Buses and cyclists. (Автобусы и велосипедисты.)
+
+67
+04:12,717 --> 04:14,757
+Cyclists and motorcyclists. (Велосипедисты и мотоциклисты.)
+
+68
+04:17,217 --> 04:27,297
+Question 135: Apart from cyclists and motorised wheelchairs, what other road users may use an unoccupied cycle lane accompanied by a broken white line? (Вопрос 135: Помимо велосипедистов и моторизованных инвалидных колясок, какие еще участники дорожного движения могут использовать незанятую велосипедную дорожку, обозначенную прерывистой белой линией?)
+
+69
+04:28,607 --> 04:31,047
+All drivers may make temporary use. (Все водители могут временно пользоваться.)
+
+70
+04:32,047 --> 04:33,967
+Only buses and taxis. (Только автобусы и такси.)
+
+71
+04:34,687 --> 04:37,337
+Only moped riders and motorcyclists. (Только мопеды и мотоциклы.)
+
+72
+04:37,977 --> 04:40,027
+Only hackneys and taxis. (Только такси и такси.)
+
+73
+04:43,287 --> 04:49,027
+Question 136: When must drivers stop at an automated railway level crossing with barriers and red flashing lights? (Вопрос 136: Когда водители должны останавливаться на автоматическом железнодорожном переезде со шлагбаумами и красными мигающими огнями?)
+
+74
+04:49,947 --> 04:54,237
+Stop safely when the amber light shows, or when red lights start to flash. (Безопасно остановитесь, когда загорится желтый свет или когда начнут мигать красные огни.)
+
+75
+04:55,757 --> 04:58,077
+When the red and amber lights stop flashing. (Когда красный и желтый огни перестают мигать.)
+
+76
+04:58,887 --> 05:00,807
+When there are no lights visible. (Когда нет видимых огней.)
+
+77
+05:01,577 --> 05:03,777
+When the barrier is fully up. (Когда барьер полностью поднят.)
+
+78
+05:05,747 --> 05:10,037
+Question 137: At a railway level crossing with unattended gates, what should a car driver do? (Вопрос 137: Что должен делать водитель автомобиля на железнодорожном переезде без присмотра?)
+
+79
+05:10,957 --> 05:13,277
+Open both gates before proceeding to cross. (Откройте оба шлагбаума, прежде чем продолжить движение.)
+
+80
+05:14,037 --> 05:18,047
+Drive halfway across and close the first gate before opening the second. (Проезжайте полпути и закройте первые ворота, прежде чем открывать вторые.)
+
+81
+05:18,747 --> 05:22,347
+Open both gates and after passing the first, stop and close it. (Откройте обе калитки, а пройдя первую, остановитесь и закройте ее.)
+
+82
+05:23,287 --> 05:27,247
+Telephone the nearest railway station before opening a gate. (Позвоните на ближайшую железнодорожную станцию перед открытием ворот.)
+
+83
+05:30,340 --> 05:32,270
+Question 138: What lights indicate a zebra crossing? (Вопрос 138: Какие огни указывают на зебру?)
+
+84
+05:32,950 --> 05:34,310
+Flashing amber beacons. (Мигающие желтые маячки.)
+
+85
+05:34,920 --> 05:36,460
+Flashing red beacons. (Мигающие красные маячки.)
+
+86
+05:36,890 --> 05:39,010
+Continuously lit amber beacons. (Постоянно горящие желтые маячки.)
+
+87
+05:39,590 --> 05:41,610
+Continuously lit red beacons. (Постоянно горящие красные маячки.)
+
+88
+05:43,457 --> 05:46,247
+Question 139: What do flashing amber arrows indicate at a junction? (Вопрос 139: Что означают мигающие желтые стрелки на перекрестке?)
+
+89
+05:47,217 --> 05:51,197
+When safe, drivers should proceed in the direction indicated. (При безопасных условиях водители должны двигаться в указанном направлении.)
+
+90
+05:52,197 --> 05:54,167
+The direction indicated is a cul-de-sac. (Указанное направление - тупик.)
+
+91
+05:55,237 --> 05:58,077
+It is prohibited to proceed in the direction indicated. (Движение в указанном направлении запрещено.)
+
+92
+05:58,957 --> 06:02,157
+Proceed smartly through junction to avoid delay. (Проезжайте перекресток быстро, чтобы избежать задержек.)
+
+93
+06:05,100 --> 06:07,950
+Question 140: What do temporary traffic lights at road works mean? (Вопрос 140: Что означают временные светофоры на дорожных работах?)
+
+94
+06:08,700 --> 06:11,190
+A driver must comply with the lights at all times. (Водитель должен всегда соблюдать сигналы светофора.)
+
+95
+06:12,130 --> 06:15,440
+A driver must comply with the lights when workers are on site only. (Водитель должен соблюдать сигналы светофора только тогда, когда на объекте работают рабочие.)
+
+96
+06:16,210 --> 06:19,260
+A driver need only comply when there is oncoming traffic. (Водитель должен соблюдать правила только при наличии встречного движения.)
+
+97
+06:19,810 --> 06:24,280
+A driver need not comply if a convoy of traffic is going in the same direction. (Водитель не должен соблюдать правила, если в том же направлении движется колонна автомобилей.)
+
+98
+06:27,998 --> 06:31,908
+Question 141: What does a continuous white line along the centre of the road mean? (Вопрос 141: Что означает сплошная белая линия по центру дороги?)
+
+99
+06:33,148 --> 06:34,518
+No U-turn allowed. (Разворот запрещен.)
+
+100
+06:35,428 --> 06:36,888
+Traffic can overtake. (Движение может обгонять.)
+
+101
+06:37,708 --> 06:39,818
+Parking allowed during business hours. (Парковка разрешена в рабочее время.)
+
+102
+06:40,658 --> 06:43,158
+U-turn allowed during daylight hours. (Разворот разрешен в светлое время суток.)
+
+103
+06:45,860 --> 06:50,140
+Question 142: What does a continuous white line in the centre of the road mean? (Вопрос 142: Что означает сплошная белая линия в центре дороги?)
+
+104
+06:51,320 --> 06:54,100
+Vehicles may not cross or drive over the line. (Транспортным средствам запрещено пересекать или проезжать по линии.)
+
+105
+06:55,300 --> 06:57,980
+Vehicles may cross the line for a short time. (Транспортные средства могут пересекать линию на короткое время.)
+
+106
+06:58,840 --> 07:00,810
+Vehicles may perform a U-turn. (Транспортные средства могут совершать разворот.)
+
+107
+07:01,880 --> 07:04,910
+Vehicles may park during daylight hours only. (Транспортные средства могут парковаться только в светлое время суток.)
+
+108
+07:08,187 --> 07:12,187
+Question 143: What should a driver do when approaching traffic lights that change from green to amber? (Вопрос 143: Что должен делать водитель при приближении к светофору, который меняет цвет с зеленого на желтый?)
+
+109
+07:13,177 --> 07:15,167
+Stop, unless it is unsafe to do so. (Остановитесь, если это безопасно.)
+
+110
+07:15,797 --> 07:17,547
+Accelerate to clear the junction. (Ускорьтесь, чтобы проехать перекресток.)
+
+111
+07:18,257 --> 07:20,017
+Stop the vehicle immediately. (Немедленно остановите автомобиль.)
+
+112
+07:20,587 --> 07:23,247
+Sound the horn while proceeding through the junction. (Подайте звуковой сигнал при проезде через перекресток.)
+
+113
+07:26,307 --> 07:28,477
+Question 144: What should a driver do at an amber traffic light? (Вопрос 144: Что должен делать водитель при желтом сигнале светофора?)
+
+114
+07:29,917 --> 07:32,327
+Stop at the line unless it is not safe to do so. (Остановитесь у линии, если это небезопасно.)
+
+115
+07:33,267 --> 07:35,437
+Make sure to pass the lights before they turn red. (Убедитесь, что проехали светофор до того, как он загорится красным.)
+
+116
+07:36,377 --> 07:38,717
+Continue as there is no traffic at the junction. (Продолжайте движение, так как на перекрестке нет движения.)
+
+117
+07:39,577 --> 07:42,947
+Continue only if sure that the junction is clear of pedestrians. (Продолжайте движение только в том случае, если уверены, что на перекрестке нет пешеходов.)
+
+118
+07:46,268 --> 07:51,808
+Question 145: When wanting to stop temporarily in a congested area where should the driver park? (Вопрос 145: Если вы хотите временно остановиться в оживленном месте, где должен припарковаться водитель?)
+
+119
+07:52,868 --> 07:55,758
+Park in a safe, legal and convenient place. (Паркуйтесь в безопасном, законном и удобном месте.)
+
+120
+07:56,928 --> 08:01,738
+Park on the footpath so as not to impede the free flow of traffic in the road. (Припаркуйтесь на тротуаре, чтобы не мешать свободному движению транспорта на дороге.)
+
+121
+08:02,598 --> 08:06,178
+Park slightly up on the footpath with the hazard lights on. (Припаркуйтесь немного на тротуаре с включенными аварийными огнями.)
+
+122
+08:06,948 --> 08:11,108
+Double park in a convenient place with your hazard lights on. (Двойная парковка в удобном месте с включенными аварийными огнями.)
+
+123
+08:13,997 --> 08:14,947
+Question 146: What is a clearway? (Вопрос 146: Что такое проезжая часть?)
+
+124
+08:16,047 --> 08:19,537
+An area where stopping and parking is not permitted during certain times. (Зона, где остановка и стоянка запрещены в определенное время.)
+
+125
+08:20,537 --> 08:24,787
+An area where stopping and parking is reserved for buses and taxis only. (Зона, где остановка и стоянка разрешены только для автобусов и такси.)
+
+126
+08:25,567 --> 08:29,747
+An area that is reserved for pedestrians and motorised wheelchairs. (Зона, предназначенная для пешеходов и моторизованных инвалидных колясок.)
+
+127
+08:30,477 --> 08:35,437
+An area that is strictly reserved for the loading and unloading of HGVs. (Зона, строго предназначенная для погрузки и разгрузки крупногабаритных транспортных средств.)
+
+128
+08:37,517 --> 08:38,687
+Question 147: What does this sign mean? (Вопрос 147: Что означает этот знак?)
+
+129
+08:39,307 --> 08:41,407
+Junction ahead with roads of lesser importance. (Перекресток с дорогами меньшей важности.)
+
+130
+08:42,217 --> 08:44,287
+Junction ahead with roads of greater importance. (Перекресток с дорогами большей важности.)
+
+131
+08:44,817 --> 08:46,817
+Junction ahead with railway crossing. (Перекресток с железнодорожным переездом.)
+
+132
+08:47,497 --> 08:49,767
+Junction ahead with roads of equal importance. (Перекресток с дорогами равной важности.)
+
+133
+08:51,847 --> 08:53,247
+Question 148: What does this sign mean? (Вопрос 148: Что означает этот знак?)
+
+134
+08:54,127 --> 08:56,667
+Y-junction where main road bears to the left. (Y-образный перекресток, где главная дорога уходит налево.)
+
+135
+08:57,597 --> 08:59,927
+Y-junction where vehicles must go left. (Y-образный перекресток, где транспортные средства должны двигаться налево.)
+
+136
+09:00,567 --> 09:03,117
+Y-junction where main road bears to the right. (Y-образный перекресток, где главная дорога уходит направо.)
+
+137
+09:03,997 --> 09:07,037
+Y-junction where heavy vehicles must go left. (Y-образный перекресток, где тяжелые транспортные средства должны двигаться налево.)
+
+138
+09:09,587 --> 09:10,817
+Question 149: What does this sign mean? (Вопрос 149: Что означает этот знак?)
+
+139
+09:11,467 --> 09:14,407
+Staggered crossroads ahead with roads of equal importance. (Впереди смещенные перекрестки с дорогами равной важности.)
+
+140
+09:15,157 --> 09:17,217
+Cul-de-sac to both left and right. (Тупик налево и направо.)
+
+141
+09:17,737 --> 09:20,327
+Roads closed ahead to both left and right. (Дороги впереди закрыты как слева, так и справа.)
+
+142
+09:22,387 --> 09:23,807
+Question 150: What does this sign mean? (Вопрос 150: Что означает этот знак?)
+
+143
+09:24,677 --> 09:27,337
+Crossroads ahead with roads of equal importance. (Перекрестки с дорогами равной важности.)
+
+144
+09:28,217 --> 09:29,737
+Major road ahead. (Впереди главная дорога.)
+
+145
+09:30,467 --> 09:33,187
+Crossroads ahead with roads of lesser importance. (Перекрестки с дорогами меньшей важности.)
+
+146
+09:36,257 --> 09:37,507
+Question 151: What does this sign mean? (Вопрос 151: Что означает этот знак?)
+
+147
+09:38,137 --> 09:40,557
+T-junction ahead with roads of equal importance. (Т-образный перекресток с дорогами равной важности.)
+
+148
+09:41,127 --> 09:43,157
+T-junction ahead with dual carriageway. (Т-образный перекресток с двойной проезжей частью.)
+
+149
+09:43,627 --> 09:46,087
+T-junction ahead with road of less importance. (Т-образный перекресток с дорогой меньшей важности.)
+
+150
+09:46,677 --> 09:49,047
+T-junction ahead with merging traffic. (Т-образный перекресток со сливающимся движением.)
+
+151
+09:51,777 --> 09:53,097
+Question 152: What does this sign mean? (Вопрос 152: Что означает этот знак?)
+
+152
+09:53,887 --> 09:57,017
+Y-junction ahead with roads of equal importance. (Y-образный перекресток с дорогами равной важности.)
+
+153
+09:57,757 --> 09:59,107
+Minor road ahead. (Второстепенная дорога впереди.)
+
+154
+10:00,007 --> 10:03,027
+Y-junction ahead with roads of lesser importance. (Y-образный перекресток с дорогами меньшей важности.)
+
+155
+10:03,897 --> 10:06,647
+Junction ahead with dual carriageway. (Перекресток с двойной проезжей частью.)
+
+156
+10:09,368 --> 10:11,048
+Question 153: What does this sign mean? (Вопрос 153: Что означает этот знак?)
+
+157
+10:12,148 --> 10:15,318
+Y-junction ahead with roads of equal importance. (Y-образный перекресток с дорогами равной важности.)
+
+158
+10:16,138 --> 10:17,818
+Minor road ahead. (Впереди второстепенная дорога.)
+
+159
+10:18,638 --> 10:20,628
+Start of dual carriageway. (Начало двойной проезжей части.)
+
+160
+10:23,317 --> 10:24,797
+Question 154: What does this sign mean? (Вопрос 154: Что означает этот знак?)
+
+161
+10:25,727 --> 10:27,897
+Crossroads with major road ahead. (Перекрестки с главной дорогой впереди.)
+
+162
+10:28,687 --> 10:30,937
+Crossroads with dual carriageway ahead. (Перекрестки с двойной проезжей частью впереди.)
+
+163
+10:31,597 --> 10:34,447
+T-junction with crossroads ahead. (Т-образный перекресток с перекрестками впереди.)
+
+164
+10:35,227 --> 10:37,797
+Road passing under a bridge ahead. (Дорога проходит под мостом впереди.)
+
+165
+10:40,247 --> 10:41,457
+Question 155: What does this sign mean? (Вопрос 155: Что означает этот знак?)
+
+166
+10:42,397 --> 10:45,467
+T-junction ahead with a road of major importance. (Т-образный перекресток с дорогой большой важности.)
+
+167
+10:46,087 --> 10:47,757
+Cul-de-sac to the right. (Тупик справа.)
+
+168
+10:48,347 --> 10:51,207
+T-junction ahead with a road of minor importance. (Т-образный перекресток с дорогой меньшей важности.)
+
+169
+10:51,987 --> 10:54,347
+Cul-de-sac to the left and right. (Тупик слева и справа.)
+
+170
+10:57,487 --> 10:58,957
+Question 156: What does this sign mean? (Вопрос 156: Что означает этот знак?)
+
+171
+11:00,047 --> 11:02,407
+Crossroads with dual carriageway ahead. (Перекрестки с двойной проезжей частью впереди.)
+
+172
+11:02,967 --> 11:05,327
+Level crossing ahead guarded by gates. (Впереди железнодорожный переезд со шлагбаумом.)
+
+173
+11:05,987 --> 11:08,187
+T-junction with crossroads ahead. (Т-образный перекресток с перекрестками впереди.)
+
+174
+11:08,827 --> 11:11,267
+Unguarded level crossing ahead. (Впереди неохраняемый железнодорожный переезд.)
+
+175
+11:16,517 --> 11:17,997
+Question 157: What does this sign mean? (Вопрос 157: Что означает этот знак?)
+
+176
+11:18,637 --> 11:21,087
+T-junction with dual carriageway ahead. (Т-образный перекресток с двойной проезжей частью впереди.)
+
+177
+11:21,687 --> 11:23,127
+Low bridge ahead. (Впереди низкий мост.)
+
+178
+11:23,597 --> 11:25,507
+Guarded level crossing ahead. (Впереди охраняемый железнодорожный переезд.)
+
+179
+11:26,177 --> 11:28,477
+Unguarded level crossing ahead. (Впереди неохраняемый железнодорожный переезд.)
+
+180
+11:31,437 --> 11:32,877
+Question 158: What does this sign mean? (Вопрос 158: Что означает этот знак?)
+
+181
+11:33,767 --> 11:35,747
+Traffic merging from the left. (Движение сливается слева.)
+
+182
+11:36,467 --> 11:38,507
+End of dual carriageway ahead. (Конец двойной проезжей части впереди.)
+
+183
+11:39,377 --> 11:41,297
+Traffic merging from the right. (Движение сливается справа.)
+
+184
+11:42,277 --> 11:44,487
+Traffic from the left has priority. (Движение слева имеет приоритет.)
+
+185
+11:47,387 --> 11:48,937
+Question 159: What does this sign mean? (Вопрос 159: Что означает этот знак?)
+
+186
+11:49,707 --> 11:51,917
+Traffic merging/diverging ahead. (Впереди слияние/расхождение потоков.)
+
+187
+11:52,727 --> 11:55,047
+Road narrows briefly ahead. (Дорога ненадолго сужается впереди.)
+
+188
+11:55,947 --> 11:58,457
+Yield to merging/diverging traffic ahead. (Уступите дорогу сливающемуся/расходящемуся движению впереди.)
+
+189
+11:59,327 --> 12:02,047
+Diversion at junction ahead. (Объезд на перекрестке впереди.)
+
+190
+12:04,408 --> 12:05,828
+Question 160: What does this sign mean? (Вопрос 160: Что означает этот знак?)
+
+191
+12:06,628 --> 12:08,018
+Roundabout ahead. (Впереди круговое движение.)
+
+192
+12:08,708 --> 12:10,238
+Loop road ahead. (Впереди кольцевая дорога.)
+
+193
+12:11,358 --> 12:12,858
+Ring road ahead. (Впереди кольцевая дорога.)
+
+194
+12:16,338 --> 12:18,048
+Question 161: What does this sign mean? (Вопрос 161: Что означает этот знак?)
+
+195
+12:19,418 --> 12:21,118
+Mini-roundabout ahead. (Впереди мини-кольцевая развязка.)
+
+196
+12:22,118 --> 12:24,848
+Roadworks ahead, diversion in operation. (Впереди дорожные работы, действует объезд.)
+
+197
+12:25,938 --> 12:27,788
+Loop road ahead. (Впереди кольцевая дорога.)
+
+198
+12:30,477 --> 12:32,157
+Question 162: What does this sign mean? (Вопрос 162: Что означает этот знак?)
+
+199
+12:32,967 --> 12:34,517
+Dangerous corner ahead. (Впереди опасный поворот.)
+
+200
+12:35,327 --> 12:36,927
+Dangerous bend ahead. (Впереди опасный поворот.)
+
+201
+12:37,427 --> 12:39,087
+One-way street ahead. (Впереди односторонняя улица.)
+
+202
+12:39,637 --> 12:41,207
+Junction to the left. (Перекресток слева.)
+
+203
+12:43,457 --> 12:45,037
+Question 163: What does this sign mean? (Вопрос 163: Что означает этот знак?)
+
+204
+12:45,867 --> 12:47,517
+Dangerous bend ahead. (Впереди опасный поворот.)
+
+205
+12:47,947 --> 12:48,937
+Turn left. (Поворот налево.)
+
+206
+12:49,637 --> 12:51,197
+Dangerous corner ahead. (Впереди опасный поворот.)
+
+207
+12:55,797 --> 12:57,217
+Question 164: What does this sign mean? (Вопрос 164: Что означает этот знак?)
+
+208
+12:58,077 --> 13:00,107
+Series of dangerous corners ahead. (Впереди серия опасных поворотов.)
+
+209
+13:00,647 --> 13:02,327
+Overhead electric cables. (Воздушные электрические кабели.)
+
+210
+13:03,137 --> 13:05,247
+Series of dangerous bends ahead. (Впереди серия опасных поворотов.)
+
+211
+13:09,257 --> 13:10,657
+Question 165: What does this sign mean? (Вопрос 165: Что означает этот знак?)
+
+212
+13:11,467 --> 13:13,547
+Series of dangerous bends ahead. (Впереди серия опасных поворотов.)
+
+213
+13:14,267 --> 13:16,337
+Series of dangerous corners ahead. (Впереди серия опасных поворотов.)
+
+214
+13:17,047 --> 13:18,527
+Slippery road ahead. (Впереди скользкая дорога.)
+
+215
+13:20,537 --> 13:22,047
+Question 166: What does this sign mean? (Вопрос 166: Что означает этот знак?)
+
+216
+13:23,197 --> 13:25,327
+Sharp change of direction to the right. (Резкое изменение направления вправо.)
+
+217
+13:25,997 --> 13:28,217
+Sharp change of direction to the left. (Резкое изменение направления налево.)
+
+218
+13:28,707 --> 13:31,347
+Road closed - drivers must turn back. (Дорога закрыта - водители должны повернуть назад.)
+
+219
+13:32,237 --> 13:34,447
+Series of speed ramps ahead. (Впереди серия лежачих полицейских.)
+
+220
+13:37,427 --> 13:38,827
+Question 167: What does this sign mean? (Вопрос 167: Что означает этот знак?)
+
+221
+13:39,787 --> 13:41,407
+Road narrows on the left. (Дорога сужается слева.)
+
+222
+13:42,287 --> 13:44,567
+The driver must overtake on the right only. (Водитель должен обгонять только справа.)
+
+223
+13:45,347 --> 13:47,157
+End of dual carriageway. (Конец двойной проезжей части.)
+
+224
+13:47,767 --> 13:49,717
+Merging traffic from the left. (Слияние потоков слева.)
+
+225
+13:52,477 --> 13:53,917
+Question 168: What does this sign mean? (Вопрос 168: Что означает этот знак?)
+
+226
+13:55,047 --> 13:56,927
+Road narrows on both sides. (Дорога сужается с обеих сторон.)
+
+227
+13:57,637 --> 13:59,317
+Dual carriageway ahead. (Впереди двойная проезжая часть.)
+
+228
+13:59,857 --> 14:01,667
+End of dual carriageway. (Конец двойной проезжей части.)
+
+229
+14:04,497 --> 14:06,047
+Question 169: What does this sign mean? (Вопрос 169: Что означает этот знак?)
+
+230
+14:06,867 --> 14:08,447
+Road divides ahead. (Дорога впереди разделяется.)
+
+231
+14:09,087 --> 14:10,487
+Railway tunnel ahead. (Железнодорожный туннель впереди.)
+
+232
+14:11,187 --> 14:13,317
+Overtake only on the left ahead. (Обгоняйте только слева.)
+
+233
+14:13,807 --> 14:15,087
+Tramline ahead. (Трамвайная линия впереди.)
+
+234
+14:17,317 --> 14:18,527
+Question 170: What does this sign mean? (Вопрос 170: Что означает этот знак?)
+
+235
+14:19,207 --> 14:20,537
+Dual carriageway ends. (Двойная проезжая часть заканчивается.)
+
+236
+14:20,957 --> 14:22,047
+Tunnel ahead. (Тоннель впереди.)
+
+237
+14:22,577 --> 14:23,807
+Road narrows ahead. (Дорога впереди сужается.)
+
+238
+14:26,457 --> 14:27,877
+Question 171: What does this sign mean? (Вопрос 171: Что означает этот знак?)
+
+239
+14:28,707 --> 14:30,247
+Two-way traffic ahead. (Впереди двустороннее движение.)
+
+240
+14:30,967 --> 14:32,497
+One-way street ahead. (Впереди односторонняя улица.)
+
+241
+14:33,147 --> 14:34,817
+Dual carriageway ahead. (Впереди двойная проезжая часть.)
+
+242
+14:37,708 --> 14:39,478
+Question 172: What does this sign mean? (Вопрос 172: Что означает этот знак?)
+
+243
+14:40,548 --> 14:42,018
+Steep descent ahead. (Впереди крутой спуск.)
+
+244
+14:42,888 --> 14:45,218
+River or unprotected quay ahead. (Впереди река или незащищенный причал.)
+
+245
+14:46,038 --> 14:47,728
+Steep ascent ahead. (Впереди крутой подъем.)
+
+246
+14:48,468 --> 14:50,308
+Uneven road surface ahead. (Впереди неровная дорожная поверхность.)
+
+247
+14:53,608 --> 14:55,048
+Question 173: What does this sign mean? (Вопрос 173: Что означает этот знак?)
+
+248
+14:56,418 --> 14:57,988
+Steep ascent ahead. (Впереди крутой подъем.)
+
+249
+14:58,698 --> 15:00,208
+Humpback bridge ahead. (Впереди горбатый мост.)
+
+250
+15:01,178 --> 15:02,838
+Steep descent ahead. (Впереди крутой спуск.)
+
+251
+15:05,378 --> 15:06,758
+Question 174: What does this sign mean? (Вопрос 174: Что означает этот знак?)
+
+252
+15:07,768 --> 15:09,368
+Low bridge up ahead. (Низкий мост впереди.)
+
+253
+15:10,138 --> 15:12,888
+Restricted weight limit for road segment indicated. (Ограничение веса для указанного участка дороги.)
+
+254
+15:13,498 --> 15:15,488
+Restricted road width ahead. (Ограниченная ширина дороги впереди.)
+
+255
+15:16,218 --> 15:21,798
+Road narrows ahead - maximum length of vehicle is indicated. (Дорога сужается - указана максимальная длина транспортного средства.)
+
+256
+15:24,208 --> 15:25,628
+Question 175: What does this sign mean? (Вопрос 175: Что означает этот знак?)
+
+257
+15:26,388 --> 15:27,998
+Overhead electric cables. (Воздушные электрические кабели.)
+
+258
+15:28,558 --> 15:30,068
+Sharp corners ahead. (Впереди крутые повороты.)
+
+259
+15:30,478 --> 15:32,328
+Radio transmission mast ahead. (Впереди мачта радиопередатчика.)
+
+260
+15:32,808 --> 15:34,318
+Crosswinds ahead. (Боковые ветры впереди.)
+
+261
+15:36,448 --> 15:37,868
+Question 176: What does this sign mean? (Вопрос 176: Что означает этот знак?)
+
+262
+15:38,408 --> 15:41,208
+Level crossing ahead unguarded by gates or barriers. (Железнодорожный переезд впереди не охраняется воротами или шлагбаумами.)
+
+263
+15:41,848 --> 15:44,278
+Level crossing ahead guarded by gates or barriers. (Железнодорожный переезд впереди охраняется воротами или шлагбаумами.)
+
+264
+15:45,178 --> 15:46,928
+Major roadworks ahead. (Впереди крупные дорожные работы.)
+
+265
+15:47,388 --> 15:49,158
+End of major roadworks ahead. (Конец крупных дорожных работ.)
+
+266
+15:52,438 --> 15:53,688
+Question 177: What does this sign mean? (Вопрос 177: Что означает этот знак?)
+
+267
+15:54,238 --> 15:56,668
+Level crossing ahead guarded by gates or barriers. (Железнодорожный переезд впереди охраняется воротами или шлагбаумами.)
+
+268
+15:57,178 --> 15:58,958
+Farm machinery crossing ahead. (Впереди переезд для сельхозтехники.)
+
+269
+15:59,488 --> 16:01,098
+Private grounds - no entry. (Частная территория - въезд запрещен.)
+
+270
+16:01,758 --> 16:03,168
+Road fencing ahead. (Впереди дорожное ограждение.)
+
+271
+16:05,428 --> 16:06,858
+Question 178: What does this sign mean? (Вопрос 178: Что означает этот знак?)
+
+272
+16:07,778 --> 16:11,108
+Level crossing ahead protected by lights and barriers. (Железнодорожный переезд впереди защищен светофором и шлагбаумами.)
+
+273
+16:12,178 --> 16:13,878
+Railway station ahead. (Впереди железнодорожная станция.)
+
+274
+16:14,648 --> 16:16,218
+Railway bridge ahead. (Впереди железнодорожный мост.)
+
+275
+16:17,048 --> 16:20,538
+Level crossing ahead unprotected by lights and barriers. (Железнодорожный переезд впереди не защищен светофорами и шлагбаумами.)
+
+276
+16:23,618 --> 16:25,128
+Question 179: What does this sign mean? (Вопрос 179: Что означает этот знак?)
+
+277
+16:26,068 --> 16:28,818
+The driver must stop when red lights show. (Водитель должен остановиться, когда горит красный свет.)
+
+278
+16:29,918 --> 16:32,848
+Stop and wait for amber light before proceeding. (Остановитесь и подождите желтого света, прежде чем продолжить движение.)
+
+279
+16:34,068 --> 16:37,278
+Stop and wait for green light before proceeding. (Остановитесь и подождите зеленого света, прежде чем продолжить движение.)
+
+280
+16:40,248 --> 16:41,568
+Question 180: What does this sign mean? (Вопрос 180: Что означает этот знак?)
+
+281
+16:42,358 --> 16:44,708
+Automatic level crossing ahead. (Автоматический железнодорожный переезд впереди.)
+
+282
+16:45,558 --> 16:47,728
+Attended level crossing ahead. (Впереди обслуживаемый железнодорожный переезд.)
+
+283
+16:48,518 --> 16:50,818
+Unguarded level crossing ahead. (Впереди неохраняемый железнодорожный переезд.)
+
+284
+16:53,918 --> 16:55,308
+Question 181: What does this sign mean? (Вопрос 181: Что означает этот знак?)
+
+285
+16:56,128 --> 17:00,978
+Sharp rise in the road ahead - for example, a humpback bridge. (Резкий подъем на дороге впереди, например, горбатый мост.)
+
+286
+17:01,438 --> 17:03,028
+Traffic island ahead. (Впереди транспортный остров.)
+
+287
+17:03,428 --> 17:05,428
+Series of bumps or hollows ahead. (Впереди серия неровностей или ям.)
+
+288
+17:05,948 --> 17:08,218
+Road falls from centre to left and right. (Дорога спускается от центра к левому и правому краю.)
+
+289
+17:08,248 --> 17:09,838
+Question 182: What does this sign mean? (Вопрос 182: Что означает этот знак?)
+
+290
+17:10,648 --> 17:12,968
+Sharp depression or dip ahead. (Резкий спад или провал впереди.)
+
+291
+17:13,878 --> 17:15,318
+Road flooded ahead. (Впереди затопленная дорога.)
+
+292
+17:16,118 --> 17:19,658
+Road divides ahead - pass on the left or right. (Дорога впереди разделяется - проезжайте слева или справа.)
+
+293
+17:20,288 --> 17:22,118
+Road damaged ahead. (Впереди поврежденная дорога.)
+
+294
+17:25,198 --> 17:26,638
+Question 183: What does this sign mean? (Вопрос 183: Что означает этот знак?)
+
+295
+17:27,518 --> 17:29,918
+Series of bumps or hollows ahead. (Впереди серия неровностей или ям.)
+
+296
+17:30,948 --> 17:32,608
+Steep hills ahead. (Впереди крутые холмы.)
+
+297
+17:33,268 --> 17:34,708
+Road works ahead. (Впереди дорожные работы.)
+
+298
+17:35,398 --> 17:37,808
+Series of rumble strips ahead. (Впереди серия шумовых полос.)
+
+299
+17:40,518 --> 17:41,928
+Question 184: What does this sign mean? (Вопрос 184: Что означает этот знак?)
+
+300
+17:43,308 --> 17:44,798
+Slippery road ahead. (Впереди скользкая дорога.)
+
+301
+17:45,618 --> 17:47,388
+Series of bends ahead. (Впереди серия поворотов.)
+
+302
+17:48,018 --> 17:49,438
+Steep hill ahead. (Впереди крутой холм.)
+
+303
+17:50,068 --> 17:52,068
+Road narrows from right. (Дорога сужается справа.)
+
+304
+17:54,588 --> 17:56,068
+Question 185: What does this sign mean? (Вопрос 185: Что означает этот знак?)
+
+305
+17:57,218 --> 18:00,758
+Unprotected quay, canal or river ahead. (Впереди незащищенный причал, канал или река.)
+
+306
+18:01,518 --> 18:03,348
+Road likely to flood. (Дорога может быть затоплена.)
+
+307
+18:04,118 --> 18:05,868
+Steep descent ahead. (Впереди крутой спуск.)
+
+308
+18:09,038 --> 18:10,488
+Question 186: What does this sign mean? (Вопрос 186: Что означает этот знак?)
+
+309
+18:11,358 --> 18:13,018
+Traffic signals ahead. (Впереди светофоры.)
+
+310
+18:13,828 --> 18:15,558
+Railway level crossing ahead. (Впереди железнодорожный переезд.)
+
+311
+18:16,218 --> 18:18,488
+School children crossing ahead. (Впереди переходят дорогу школьники.)
+
+312
+18:19,288 --> 18:21,198
+Stop at zebra crossing. (Остановитесь на зебре.)
+
+313
+18:24,208 --> 18:25,608
+Question 187: What does this sign mean? (Вопрос 187: Что означает этот знак?)
+
+314
+18:26,588 --> 18:28,118
+School ahead. (Впереди школа.)
+
+315
+18:28,818 --> 18:30,428
+Children's play area ahead. (Впереди детская игровая площадка.)
+
+316
+18:31,198 --> 18:32,848
+Picnic area ahead. (Впереди детская игровая площадка.)
+
+317
+18:33,408 --> 18:35,168
+Pedestrian crossing ahead. (Впереди пешеходный переход.)
+
+318
+18:38,208 --> 18:39,638
+Question 188: What does this sign mean? (Вопрос 188: Что означает этот знак?)
+
+319
+18:40,688 --> 18:42,868
+School children crossing ahead. (Впереди переходят дорогу школьники.)
+
+320
+18:43,678 --> 18:46,288
+Level crossing ahead with pedestrian walkway. (Железнодорожный переезд впереди с пешеходной дорожкой.)
+
+321
+18:47,198 --> 18:48,828
+Playground ahead. (Впереди детская площадка.)
+
+322
+18:52,328 --> 18:53,748
+Question 189: What does this sign mean? (Вопрос 189: Что означает этот знак?)
+
+323
+18:54,618 --> 18:56,868
+School children crossing ahead. (Впереди переходят дорогу школьники.)
+
+324
+18:57,488 --> 18:59,178
+School playground ahead. (Впереди школьная площадка.)
+
+325
+19:00,248 --> 19:01,988
+Children's play area ahead. (Впереди детская игровая площадка.)
+
+326
+19:04,408 --> 19:06,538
+Question 190: What do these signs together mean? (Вопрос 190: Что означают эти знаки вместе?)
+
+327
+19:07,468 --> 19:09,248
+Beware of children crossing. (Осторожно, дети переходят дорогу.)
+
+328
+19:10,218 --> 19:12,188
+Loose chippings on the road ahead. (Сыпучий щебень на дороге впереди.)
+
+329
+19:12,788 --> 19:15,198
+Slippery road - children may fall. (Скользкая дорога, дети могут упасть.)
+
+330
+19:18,178 --> 19:19,618
+Question 191: What does this sign mean? (Вопрос 191: Что означает этот знак?)
+
+331
+19:20,238 --> 19:22,418
+Accompanied horses and ponies ahead. (Впереди лошади и пони в сопровождении.)
+
+332
+19:23,018 --> 19:24,798
+Entrance to horse riding school. (Въезд в школу верховой езды.)
+
+333
+19:25,278 --> 19:27,338
+Riding path - no vehicles allowed. (Дорожка для верховой езды - движение запрещено.)
+
+334
+19:27,878 --> 19:29,228
+Racecourse ahead. (Ипподром впереди.)
+
+335
+19:32,198 --> 19:33,638
+Question 192: What does this sign mean? (Вопрос 192: Что означает этот знак?)
+
+336
+19:34,448 --> 19:37,568
+Possibility of cattle or farm animals ahead. (Возможность появления крупного рогатого скота или сельскохозяйственных животных впереди.)
+
+337
+19:38,408 --> 19:40,018
+Livestock mart ahead. (Впереди скотный рынок.)
+
+338
+19:40,758 --> 19:42,278
+Cattle grid ahead. (Впереди решетка для скота.)
+
+339
+19:45,468 --> 19:46,908
+Question 193: What does this sign mean? (Вопрос 193: Что означает этот знак?)
+
+340
+19:47,708 --> 19:49,348
+Possibility of sheep ahead. (Возможность появления овец впереди.)
+
+341
+19:50,168 --> 19:51,438
+Abattoir ahead. (Бойня впереди.)
+
+342
+19:52,218 --> 19:53,828
+Sheep market ahead. (Впереди овечий рынок.)
+
+343
+19:59,338 --> 20:01,028
+Question 194: What does this sign mean? (Вопрос 194: Что означает этот знак?)
+
+344
+20:02,408 --> 20:04,748
+Deer or wild animals ahead. (Впереди олени или дикие животные.)
+
+345
+20:05,538 --> 20:07,058
+Stag hunting ahead. (Охота на оленей впереди.)
+
+346
+20:07,818 --> 20:10,188
+Cattle and farm animals ahead. (Впереди крупный рогатый скот и сельскохозяйственные животные.)
+
+347
+20:13,448 --> 20:14,918
+Question 195: What does this sign mean? (Вопрос 195: Что означает этот знак?)
+
+348
+20:16,118 --> 20:17,808
+Crosswinds ahead. (Боковой ветер впереди.)
+
+349
+20:18,488 --> 20:19,858
+Airport ahead. (Аэропорт впереди.)
+
+350
+20:20,308 --> 20:21,838
+Falling rocks ahead. (Впереди падающие камни.)
+
+351
+20:22,438 --> 20:23,918
+Golf course ahead. (Впереди поле для гольфа.)
+
+352
+20:26,388 --> 20:27,788
+Question 196: What does this sign mean? (Вопрос 196: Что означает этот знак?)
+
+353
+20:28,298 --> 20:29,888
+Pedestrian crossing ahead. (Впереди пешеходный переход.)
+
+354
+20:30,228 --> 20:31,888
+Lane reserved for pedestrians. (Полоса зарезервирована для пешеходов.)
+
+355
+20:32,288 --> 20:34,068
+Beware of pedestrians at night. (Остерегайтесь пешеходов ночью.)
+
+356
+20:34,588 --> 20:35,768
+School ahead. (Школа впереди.)
+
+357
+20:37,718 --> 20:39,128
+Question 197: What does this sign mean? (Вопрос 197: Что означает этот знак?)
+
+358
+20:39,838 --> 20:41,048
+Tunnel ahead. (Тоннель впереди.)
+
+359
+20:41,568 --> 20:42,938
+Low bridge ahead. (Впереди низкий мост.)
+
+360
+20:43,478 --> 20:45,058
+Historic site ahead. (Впереди исторический объект.)
+
+361
+20:48,378 --> 20:49,798
+Question 198: What does this sign mean? (Вопрос 198: Что означает этот знак?)
+
+362
+20:50,718 --> 20:52,818
+Danger of falling rocks ahead. (Опасность падения камней впереди.)
+
+363
+20:53,608 --> 20:55,048
+Rugged coast ahead. (Неровное побережье впереди.)
+
+364
+20:56,018 --> 20:57,598
+Steep descent ahead. (Впереди крутой спуск.)
+
+365
+21:01,528 --> 21:03,028
+Question 199: What does this sign mean? (Вопрос 199: Что означает этот знак?)
+
+366
+21:04,118 --> 21:06,318
+Possibility of low flying aircraft. (Возможность низколетящих самолетов.)
+
+367
+21:07,328 --> 21:09,338
+Direction of prevailing wind. (Направление преобладающего ветра.)
+
+368
+21:10,218 --> 21:11,548
+Airport ahead. (Аэропорт впереди.)
+
+369
+21:14,948 --> 21:16,338
+Question 200: What does this sign mean? (Вопрос 200: Что означает этот знак?)
+
+370
+21:17,458 --> 21:19,658
+A driver must drive on the left-hand side. (Водитель должен ехать по левой стороне.)
+
+371
+21:20,388 --> 21:22,968
+A driver must overtake on the left-hand side. (Водитель должен обгонять с левой стороны.)
+
+372
+21:23,948 --> 21:25,938
+A driver must merge from the left. (Водитель должен перестроиться налево.)
+
+373
+21:28,527 --> 21:30,117
+Question 201: What does this sign mean? (Вопрос 201: Что означает этот знак?)
+
+374
+21:31,017 --> 21:32,837
+Tramway crossing ahead. (Трамвайная остановка впереди.)
+
+375
+21:33,487 --> 21:35,167
+Level crossing ahead. (Железнодорожный переезд впереди.)
+
+376
+21:35,847 --> 21:37,707
+Railway station. (Впереди переходят дорогу школьники.)
+
+377
+21:38,287 --> 21:40,247
+Bus and tramway crossing ahead. (Остановитесь на зебре.)
+
+378
+21:42,507 --> 21:43,927
+Question 202: What does this sign mean? (Вопрос 202: Что означает этот знак?)
+
+379
+21:44,797 --> 21:46,457
+Roadworks ahead. (Впереди дорожные работы.)
+
+380
+21:47,127 --> 21:48,587
+Flagman ahead. (Впереди сигнальщик.)
+
+381
+21:49,387 --> 21:50,917
+Building site ahead. (Впереди строительная площадка.)
+
+382
+21:53,427 --> 21:54,827
+Question 203: What does this sign mean? (Вопрос 203: Что означает этот знак?)
+
+383
+21:55,907 --> 21:57,327
+Slippery road. (Сыпучий щебень на дороге.)
+
+384
+21:58,077 --> 21:59,717
+Series of bends ahead. (Неровная поверхность слева.)
+
+385
+22:00,327 --> 22:02,077
+Road narrows from the right. (Впереди скользкая дорога.)
+
+386
+22:04,597 --> 22:05,987
+Question 204: What does this sign mean? (Вопрос 204: Что означает этот знак?)
+
+387
+22:07,027 --> 22:08,707
+Road narrows from left. (Дорога сужается слева.)
+
+388
+22:09,517 --> 22:11,547
+Left-hand lane has an uneven surface. (Левая полоса имеет неровную поверхность.)
+
+389
+22:12,387 --> 22:14,037
+Slow lane ends ahead. (Впереди конец медленной полосы.)
+
+390
+22:17,327 --> 22:18,727
+Question 205: What does this sign mean? (Вопрос 205: Что означает этот знак?)
+
+391
+22:19,957 --> 22:21,797
+Road narrows from right. (Дорога сужается справа.)
+
+392
+22:22,667 --> 22:25,327
+A driver may overtake on the right only. (Водитель может обгонять только справа.)
+
+393
+22:26,107 --> 22:28,487
+Right-hand lane has an uneven surface. (Правая полоса имеет неровную поверхность.)
+
+394
+22:29,207 --> 22:31,047
+Overtaking lane ends ahead. (Впереди конец полосы для обгона.)
+
+395
+22:35,277 --> 22:36,707
+Question 206: What does this sign mean? (Вопрос 206: Что означает этот знак?)
+
+396
+22:37,807 --> 22:40,247
+Road narrows on both sides. (Дорога сужается с обеих сторон.)
+
+397
+22:41,047 --> 22:43,427
+Traffic merging from both sides. (Движение сливается с обеих сторон.)
+
+398
+22:44,307 --> 22:46,607
+End of obstruction between lanes. (Конец препятствия между полосами.)
+
+399
+22:47,267 --> 22:49,367
+End of dual carriageway ahead. (Конец двойной проезжей части впереди.)
+
+400
+22:52,197 --> 22:53,607
+Question 207: What does this sign mean? (Вопрос 207: Что означает этот знак?)
+
+401
+22:54,777 --> 22:56,127
+Flagman ahead. (Впереди сигнальщик.)
+
+402
+22:56,817 --> 22:58,407
+Football stadium ahead. (Впереди футбольный стадион.)
+
+403
+22:59,107 --> 23:00,847
+Pedestrian crossing to right. (Пешеходный переход направо.)
+
+404
+23:01,487 --> 23:03,047
+Hitch-hiking permitted. (Разрешен автостоп.)
+
+405
+23:05,747 --> 23:07,187
+Question 208: What does this sign mean? (Вопрос 208: Что означает этот знак?)
+
+406
+23:08,137 --> 23:10,247
+Temporary traffic signals ahead. (Впереди временные светофоры.)
+
+407
+23:11,107 --> 23:12,827
+Railway crossing ahead. (Впереди железнодорожный переезд.)
+
+408
+23:13,547 --> 23:15,647
+School children crossing ahead. (Впереди переходят дорогу школьники.)
+
+409
+23:19,217 --> 23:20,607
+Question 209: What does this sign mean? (Вопрос 209: Что означает этот знак?)
+
+410
+23:21,397 --> 23:22,867
+Two-way traffic. (Двустороннее движение.)
+
+411
+23:23,287 --> 23:24,427
+One-way street. (Односторонняя улица.)
+
+412
+23:25,057 --> 23:26,717
+Dual carriageway ahead. (Впереди двойная проезжая часть.)
+
+413
+23:27,337 --> 23:29,087
+Traffic may not stop. (Движение не может остановиться.)
+
+414
+23:31,847 --> 23:33,267
+Question 210: What does this sign mean? (Вопрос 210: Что означает этот знак?)
+
+415
+23:34,427 --> 23:36,447
+Nearside lane of two closed. (Ближняя полоса из двух закрыта.)
+
+416
+23:37,217 --> 23:39,637
+Traffic in nearside lane must turn left. (Движение по ближней полосе должно повернуть налево.)
+
+417
+23:40,607 --> 23:42,547
+Offside lane of two closed. (Внешняя полоса из двух закрыта.)
+
+418
+23:43,187 --> 23:45,557
+T-junction ahead in the left lane. (Т-образный перекресток впереди на левой полосе.)
+
+419
+23:48,727 --> 23:50,147
+Question 211: What does this sign mean? (Вопрос 211: Что означает этот знак?)
+
+420
+23:51,307 --> 23:53,407
+Nearside lane of three closed. (Ближняя полоса из трех закрыта.)
+
+421
+23:54,347 --> 23:56,127
+Do not drive on the hard shoulder. (Не двигайтесь по обочине.)
+
+422
+23:57,007 --> 23:59,517
+Overtaking permitted, except on the left lane. (Обгон разрешен, кроме как по левой полосе.)
+
+423
+24:02,637 --> 24:04,067
+Question 212: What does this sign mean? (Вопрос 212: Что означает этот знак?)
+
+424
+24:05,247 --> 24:06,857
+Offside lane closed ahead. (Внешняя полоса закрыта.)
+
+425
+24:07,677 --> 24:09,477
+Corner ahead on offside lane. (Поворот впереди на внешней полосе.)
+
+426
+24:10,277 --> 24:12,117
+End of dual carriageway. (Конец двойной проезжей части.)
+
+427
+24:12,797 --> 24:15,647
+No stopping, except in offside lane. (Запрещена остановка, кроме как на внешней полосе.)
+
+428
+24:18,447 --> 24:20,507
+Question 213: What do these signs together mean? (Вопрос 213: Что означают эти знаки вместе?)
+
+429
+24:21,347 --> 24:22,547
+End of detour. (Конец объезда.)
+
+430
+24:23,247 --> 24:24,607
+End of road. (Конец дороги.)
+
+431
+24:25,327 --> 24:27,027
+End of road works. (Конец дорожных работ.)
+
+432
+24:29,487 --> 24:30,907
+Question 214: What does this sign mean? (Вопрос 214: Что означает этот знак?)
+
+433
+24:31,847 --> 24:34,497
+Traffic should cross back to the left-hand lane ahead. (Движение должно перестроиться на левую полосу.)
+
+434
+24:35,467 --> 24:37,557
+Slow lane ahead for heavy traffic. (Полоса для медленного движения для тяжелого транспорта.)
+
+435
+24:38,247 --> 24:39,587
+Lay-by ahead. (Впереди парковочный карман.)
+
+436
+24:40,247 --> 24:42,227
+Bend in the road to the left ahead. (Поворот налево на дороге.)
+
+437
+24:45,557 --> 24:46,957
+Question 215: What does this sign mean? (Вопрос 215: Что означает этот знак?)
+
+438
+24:47,817 --> 24:50,917
+Traffic should cross out to the right-hand lane ahead. (Движение должно перестроиться на правую полосу.)
+
+439
+24:51,757 --> 24:53,887
+End of "no overtaking" zone. (Конец зоны без обгона.)
+
+440
+24:54,727 --> 24:56,717
+Traffic calming measures ahead. (Впереди меры по успокоению дорожного движения.)
+
+441
+24:57,307 --> 24:59,607
+Bend in the road to the right ahead. (Поворот направо на дороге.)
+
+442
+25:02,307 --> 25:03,737
+Question 216: What does this sign mean? (Вопрос 216: Что означает этот знак?)
+
+443
+25:04,497 --> 25:06,857
+Start of central reserve or obstruction. (Начало центральной резервации или препятствия.)
+
+444
+25:07,427 --> 25:08,987
+Heavy vehicles have priority. (Тяжелые транспортные средства имеют приоритет.)
+
+445
+25:09,567 --> 25:11,187
+Dual carriageway ahead. (Впереди двойная проезжая часть.)
+
+446
+25:11,637 --> 25:13,277
+Mini-roundabout ahead. (Впереди мини-кольцевая развязка.)
+
+447
+25:15,647 --> 25:17,047
+Question 217: What does this sign mean? (Вопрос 217: Что означает этот знак?)
+
+448
+25:17,827 --> 25:20,387
+End of central reserve or obstruction. (Конец центральной резервации или препятствия.)
+
+449
+25:21,087 --> 25:23,177
+Beware of vehicle with a wide load. (Остерегайтесь транспортных средств с широким грузом.)
+
+450
+25:23,737 --> 25:25,657
+Dual carriageway ends ahead. (Впереди конец двойной проезжей части.)
+
+451
+25:26,307 --> 25:27,947
+Tunnel ends ahead. (Впереди конец тоннеля.)
+
+452
+25:31,487 --> 25:32,887
+Question 218: What does this sign mean? (Вопрос 218: Что означает этот знак?)
+
+453
+25:33,597 --> 25:34,927
+Tram lane on left. (Трамвайная линия слева.)
+
+454
+25:35,637 --> 25:37,237
+Trams emerging from left. (Трамваи выезжают слева.)
+
+455
+25:37,687 --> 25:39,467
+Bus and tram lane on left. (Автобусная и трамвайная полоса слева.)
+
+456
+25:39,917 --> 25:41,617
+No parking inside the white line. (Парковка за белой линией запрещена.)
+
+457
+25:45,218 --> 25:46,608
+Question 219: What does this sign mean? (Вопрос 219: Что означает этот знак?)
+
+458
+25:47,728 --> 25:49,498
+Loose chippings on road. (Сыпучий щебень на дороге.)
+
+459
+25:50,578 --> 25:52,248
+Uneven surface on left. (Неровная поверхность слева.)
+
+460
+25:53,098 --> 25:55,278
+Slippery road up ahead. (Впереди скользкая дорога.)
+
+461
+25:57,598 --> 25:58,988
+Question 220: What does this sign mean? (Вопрос 220: Что означает этот знак?)
+
+462
+25:59,858 --> 26:01,638
+Traffic queues likely ahead. (Впереди возможны пробки.)
+
+463
+26:01,988 --> 26:03,778
+Three vehicles may queue ahead. (Впереди могут образоваться пробки из трех автомобилей.)
+
+464
+26:04,368 --> 26:06,478
+Parking for works vehicles on left. (Парковка для служебного транспорта слева.)
+
+465
+26:06,948 --> 26:08,558
+Steep incline ahead. (Впереди крутой подъем.)
+
+466
+26:10,878 --> 26:12,288
+Question 221: What does this sign mean? (Вопрос 221: Что означает этот знак?)
+
+467
+26:13,278 --> 26:14,508
+Uneven surface. (Неровная поверхность.)
+
+468
+26:15,088 --> 26:16,638
+Parking on left only. (Парковка только слева.)
+
+469
+26:17,218 --> 26:18,728
+Soft margin on left. (Мягкая обочина слева.)
+
+470
+26:19,418 --> 26:20,778
+Slippery surface. (Скользкая поверхность.)
+
+471
+26:24,298 --> 26:28,528
+Question 222: When must the holder of a learner permit display L plates on their car? (Вопрос 222: Когда владелец ученического удостоверения должен размещать на своем автомобиле знаки «L»?)
+
+472
+26:30,348 --> 26:32,048
+At all times when driving. (Во все времена во время вождения.)
+
+473
+26:33,188 --> 26:36,758
+When driving unaccompanied by a full licence holder. (При вождении без сопровождения водителя с полным водительским удостоверением.)
+
+474
+26:37,738 --> 26:40,328
+When driving on their first learner permit. (При вождении по первому ученическому удостоверению.)
+
+475
+26:43,767 --> 26:51,337
+Question 223: What is the maximum number of passengers that may be carried in a vehicle driven by the holder of a Category B driving licence? (Вопрос 223: Каково максимальное количество пассажиров, которое может перевозиться в транспортном средстве, управляемом владельцем водительского удостоверения категории B?)
+
+476
+26:52,477 --> 26:53,747
+8 passengers. (8 пассажиров.)
+
+477
+26:54,637 --> 26:56,127
+7 passengers. (7 пассажиров.)
+
+478
+26:57,097 --> 26:58,547
+9 passengers. (9 пассажиров.)
+
+479
+26:59,347 --> 27:00,677
+10 passengers. (10 пассажиров.)
+
+480
+27:02,367 --> 27:06,787
+Question 224: When can the holder of a Category W learner permit carry a passenger? (Вопрос 224: Когда владелец ученического удостоверения категории W может перевозить пассажира?)
+
+481
+27:07,707 --> 27:15,317
+Only when the passenger also holds a Category W driving licence and the vehicle is designed to carry a passenger. (Только если пассажир также имеет водительское удостоверение категории W, а транспортное средство предназначено для перевозки пассажиров.)
+
+482
+27:16,217 --> 27:20,447
+Only when the passenger also holds a Category W driving licence. (Только если пассажир также имеет водительское удостоверение категории W.)
+
+483
+27:21,187 --> 27:28,347
+Only when the passenger holds a Category AM driving licence and the vehicle is designed to carry a passenger. (Только если пассажир имеет водительское удостоверение категории AM, а транспортное средство предназначено для перевозки пассажиров.)
+
+484
+27:29,117 --> 27:32,887
+Only when the passenger holds a Category AM driving licence. (Только если у пассажира есть водительское удостоверение категории AM.)
+
+485
+27:37,427 --> 27:42,397
+Question 225: When can a child under the age of sixteen drive a tractor on a public road? (Вопрос 225: Когда ребенок младше шестнадцати лет может управлять трактором на дороге общего пользования?)
+
+486
+27:43,897 --> 27:48,747
+Children under 16 are not allowed to drive a tractor on a public road. (Детям до 16 лет запрещено управлять трактором на дорогах общего пользования.)
+
+487
+27:50,117 --> 27:57,807
+A child under 16 is allowed to drive a tractor on a public road when accompanied by a fully licensed driver. (Ребенок до 16 лет может управлять трактором на дороге общего пользования в сопровождении водителя с полным водительским удостоверением.)
+
+488
+27:59,007 --> 28:05,627
+A child under 16 is allowed to drive a tractor on a public road when they hold a learner permit. (Ребенок до 16 лет может управлять трактором на дороге общего пользования, если у него есть ученическое удостоверение.)
+
+489
+28:09,567 --> 28:11,927
+Question 226: Where should L plates be displayed on cars? (Вопрос 226: Где должны быть размещены знаки «L» на автомобилях?)
+
+490
+28:12,747 --> 28:14,247
+Both front and rear. (Спереди и сзади.)
+
+491
+28:14,887 --> 28:16,137
+On the front only. (Только спереди.)
+
+492
+28:16,847 --> 28:18,177
+On the rear only. (Только сзади.)
+
+493
+28:18,657 --> 28:20,477
+On the driver's side only. (Только со стороны водителя.)
+
+494
+28:24,797 --> 28:29,547
+Question 227: How would a driver calculate the maximum overall permitted weight of their vehicle? (Вопрос 227: Как водителю рассчитать максимальную общую разрешенную массу своего транспортного средства?)
+
+495
+28:30,477 --> 28:34,317
+By adding the unladen weight of the vehicle to the load permitted to be carried. (Путем сложения массы транспортного средства без груза и разрешенной к перевозке массы груза.)
+
+496
+28:35,277 --> 28:37,417
+By checking the unladen weight of the vehicle. (Проверив массу транспортного средства без груза.)
+
+497
+28:38,477 --> 28:42,507
+By calculating the unladen weight of the vehicle plus the weight of the fuel. (Путем расчета массы транспортного средства без груза плюс вес топлива.)
+
+498
+28:43,497 --> 28:45,957
+By checking the weight of the load which may be carried. (Проверив вес груза, который можно перевозить.)
+
+499
+28:49,157 --> 28:57,107
+Question 228: What is the Maximum Authorised Mass (MAM) of a car that may be driven by the holder of a Category B driving licence? (Вопрос 228: Какова максимальная разрешенная масса (MAM) автомобиля, которым может управлять владелец водительского удостоверения категории B?)
+
+500
+28:58,687 --> 29:00,647
+3,500 kilograms. (3 500 килограммов.)
+
+501
+29:01,477 --> 29:03,087
+3,000 kilograms. (3000 килограммов.)
+
+502
+29:04,267 --> 29:06,447
+3,750 kilograms. (3750 килограммов.)
+
+503
+29:07,387 --> 29:09,247
+4,000 kilograms. (4000 килограммов.)
+
+504
+29:11,577 --> 29:17,687
+Question 229: What is the maximum gross weight of a vehicle that may be driven by the holder of a Category B driving licence? (Вопрос 229: Какова максимальная полная масса транспортного средства, которым может управлять владелец водительского удостоверения категории B?)
+
+505
+29:18,727 --> 29:20,537
+3,500 kilograms (3 500 килограммов)
+
+506
+29:21,577 --> 29:23,557
+3,450 kilograms (3 450 килограммов)
+
+507
+29:25,237 --> 29:27,157
+3,250 kilograms (3 250 килограммов)
+
+508
+29:28,327 --> 29:30,067
+3,000 kilograms (3000 килограммов)
+
+509
+29:32,877 --> 29:38,817
+Question 230: Is a driver allowed to use rebated (green) diesel fuel in a car on a public road? (Вопрос 230: Разрешено ли водителю использовать дизельное топливо с пониженным акцизом (зеленое) в автомобиле на дороге общего пользования?)
+
+510
+29:39,787 --> 29:42,007
+Green diesel may never be used in a car. (Зеленый дизель никогда не может использоваться в автомобиле.)
+
+511
+29:43,267 --> 29:46,477
+Green diesel may be used in a car only in winter months. (Зеленый дизель можно использовать в автомобиле только в зимние месяцы.)
+
+512
+29:47,407 --> 29:51,337
+Green diesel may be used in a car only in summer months. (Зеленый дизель можно использовать в автомобиле только в летние месяцы.)
+
+513
+29:52,387 --> 29:57,217
+Green diesel may be used in a car only if the car is a taxi. (Зеленый дизель можно использовать в автомобиле только в том случае, если автомобиль является такси.)
+
+514
+30:00,438 --> 30:03,668
+Question 231: What should a driver check when parking their vehicle? (Вопрос 231: Что должен проверить водитель при парковке своего автомобиля?)
+
+515
+30:04,578 --> 30:08,238
+That they comply with mandatory road markings and signs. (Соблюдают ли они обязательные дорожные разметки и знаки.)
+
+516
+30:09,038 --> 30:11,048
+That the roadway is adequately lit. (Что проезжая часть достаточно освещена.)
+
+517
+30:12,188 --> 30:16,298
+That the vehicle is at least 15 centimetres from the kerb. (Что транспортное средство находится на расстоянии не менее 15 сантиметров от бордюра.)
+
+518
+30:19,258 --> 30:24,248
+Question 232: When must a tractor or works vehicle be fitted with a rear-view mirror? (Вопрос 232: Когда трактор или рабочее транспортное средство должны быть оснащены зеркалом заднего вида?)
+
+519
+30:25,268 --> 30:27,698
+A rear-view mirror must always be fitted. (Зеркало заднего вида должно быть всегда установлено.)
+
+520
+30:28,958 --> 30:33,168
+A rear-view mirror is not required in a tractor or works vehicle. (Зеркало заднего вида не требуется на тракторе или рабочем транспортном средстве.)
+
+521
+30:34,048 --> 30:37,878
+A rear-view mirror must be fitted only when towing a trailer. (Зеркало заднего вида должно быть установлено только при буксировке прицепа.)
+
+522
+30:38,818 --> 30:44,058
+A rear-view mirror must be fitted only when towing a trailer over 8 metres long. (Зеркало заднего вида должно быть установлено только при буксировке прицепа длиной более 8 метров.)
+
+523
+30:47,568 --> 30:52,518
+Question 233: What distance after a pedestrian crossing can a driver park to make a delivery? (Вопрос 233: На каком расстоянии после пешеходного перехода водитель может припарковаться для доставки груза?)
+
+524
+30:53,608 --> 30:54,778
+5 metres (5 метров)
+
+525
+30:55,518 --> 30:56,668
+10 metres (10 метров)
+
+526
+30:57,338 --> 30:58,568
+15 metres (15 метров)
+
+527
+31:01,238 --> 31:09,698
+Question 234: What lights are recommended to be used when parking or leaving a vehicle for a short period of time on the side of the road at night? (Вопрос 234: Какие огни рекомендуется использовать при парковке или оставлении транспортного средства на короткий промежуток времени на обочине дороги в ночное время?)
+
+528
+31:10,618 --> 31:15,738
+Front and rear side lights to alert other road users to the vehicle's presence. (Передние и задние боковые огни, чтобы предупредить других участников дорожного движения о присутствии транспортного средства.)
+
+529
+31:17,048 --> 31:22,348
+Rear fog lights in order to alert other road users to the vehicle's size. (Задние противотуманные фары для предупреждения других участников дорожного движения о размере транспортного средства.)
+
+530
+31:23,548 --> 31:28,818
+Front, dipped headlights in order to alert other road users to the vehicle's location. (Передние фары ближнего света, чтобы предупредить других участников дорожного движения о местонахождении транспортного средства.)

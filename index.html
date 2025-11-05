@@ -588,12 +588,18 @@
         }
 
         function extractQuestions(subtitles) {
-            return subtitles.filter(sub => sub.text.trim().startsWith('Question'))
-                .map((sub, index) => ({
-                    number: index + 1,
-                    startTime: sub.start,
-                    text: sub.text
-                }));
+            return subtitles
+                .filter(sub => sub.text.trim().startsWith('Question'))
+                .map(sub => {
+                    const match = sub.text.match(/^Question\s*(\d+)/);
+                    const number = match ? parseInt(match[1], 10) : null;
+                    return {
+                        number: number,
+                        startTime: sub.start,
+                        text: sub.text
+                    };
+                })
+                .filter(q => q.number !== null);
         }
 
         function createQuestionButtons(questions) {
